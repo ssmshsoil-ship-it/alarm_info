@@ -1,0 +1,71 @@
+kFarmAI 알람정보 자동수집/텔레그램 테스트앱 개발 프롬프트
+
+목표
+- kFarmAI 웹 서비스에 반영하기 전에 개인 테스트앱으로 실제 정보를 수집하고 사용성을 검증한다.
+- 상토, 비료, 퇴비, 종자, 농약, 작물보호제, 농업e지, 농업 보조사업 관련 정보를 하루 2회 수집한다.
+- 오전 7시, 오후 2시에 텔레그램으로 핵심 알람을 발송한다.
+- GitHub Pages 또는 Netlify에서 index.html을 열어 최신 alerts.json 데이터를 확인한다.
+
+현재 구조
+- index.html: 모바일 우선 알람정보 화면
+- alerts.json: 수집 결과 데이터
+- sources.json: 수집 키워드와 RSS 소스 목록
+- collector.py: RSS 수집, 중복 제거, alerts.json 생성, 텔레그램 발송
+- requirements.txt: Python 의존성
+- .github/workflows/daily-alerts.yml: GitHub Actions 하루 2회 자동 실행
+
+수집 키워드
+- 상토
+- 비료
+- 퇴비
+- 종자
+- 농약
+- 작물보호제
+- 농업e지
+- 보조사업
+- 농자재
+
+알람 데이터 규격
+{
+  "id": "중복방지 ID",
+  "title": "제목",
+  "source": "출처",
+  "region": "지역",
+  "category": "분류",
+  "published_at": "게시일",
+  "startDate": "화면 표시 시작일",
+  "endDate": "신청 마감일 또는 빈값",
+  "deadline": "마감일 또는 빈값",
+  "method": "신청방법 또는 원문 확인 필요",
+  "url": "원문 링크",
+  "summary": ["요약1", "요약2", "요약3"],
+  "collected_at": "수집시각"
+}
+
+운영 방식
+1. GitHub Actions가 한국시간 오전 7시, 오후 2시에 collector.py 실행
+2. collector.py가 RSS/검색 RSS에서 관련 정보를 수집
+3. alerts.json 업데이트
+4. 텔레그램 봇으로 최근 수집 정보를 발송
+5. 사용자는 index.html 화면에서 필터링, 검색, 카톡복사 가능
+
+텔레그램 Secret
+- TELEGRAM_BOT_TOKEN
+- TELEGRAM_CHAT_ID
+
+향후 개선
+- 지자체 고시공고 게시판 직접 크롤링 추가
+- 농업e지 공고 직접 수집 추가
+- 농민신문, 한국농어민신문, 영농자재신문 등 매체별 정밀 파서 추가
+- Gemini/OpenAI API로 요약 고도화
+- 신청기간, 마감일, 신청처 자동 추출
+- 지역/품목별 중요도 점수화
+- 중복 기사 묶기
+- 관리자 검토 후 공개 기능
+- PWA 푸시 알림 또는 텔레그램 채널 운영
+
+중요 원칙
+- 신청기간, 지원금액, 대상자, 신청방법은 임의로 생성하지 않는다.
+- 확인되지 않은 값은 원문 확인 필요로 둔다.
+- 기사 전문을 저장하지 않고 제목, 짧은 요약, 출처, 링크 중심으로 제공한다.
+- 텔레그램 문구에는 원문 재확인 안내를 반드시 포함한다.
