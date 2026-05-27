@@ -1,7 +1,83 @@
 {
-  "generated_at": "2026-05-27T17:36:51+09:00",
+  "generated_at": "2026-05-28T08:22:52+09:00",
   "timezone": "Asia/Seoul",
   "alerts": [
+    {
+      "id": "a7a6eb76440619e7",
+      "title": "창녕군, 내년도 친환경농업 육성 유기질 비료 지원 - 뉴시스",
+      "source": "뉴시스",
+      "region": "전국",
+      "category": "비료",
+      "published_at": "2026-05-27",
+      "startDate": "2026-05-27",
+      "endDate": "",
+      "deadline": "",
+      "method": "원문 확인 필요",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAzN1ZJcDlpXzN6OVNfWTJNUGJiNDBzdkd5SVI4T2dsWUhqenZsaGVESXQ0d1c3UEhUU1lFcXhVcFoyQzljeTZnakd2ak90OUEtQVR4MDd6T2dYOHBnV2N0eNIBeEFVX3lxTFBKdmhzc1BfYXFmcnUtMTJ6dEtleUZLNlpYQUJBRzN5ZXdEb185VnVVRUowVUhTZEk1NU56cFRtRFI0eGh5ZlVuak9YUWVvOVlQX1B2Zk9hSzd2V1pPeTQzdjlVYU9kejdyNm9acGZNVVFjcmhCdktoUQ?oc=5",
+      "summary": [
+        "비료 관련 정보가 감지되었습니다.",
+        "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
+        "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
+      ],
+      "collected_at": "2026-05-28T08:22:52+09:00"
+    },
+    {
+      "id": "7a1fba1350904ab4",
+      "title": "군산시, 2027년 유기질비료 지원사업 6월부터 조기 접수 - 전라매일",
+      "source": "전라매일",
+      "region": "전국",
+      "category": "비료",
+      "published_at": "2026-05-27",
+      "startDate": "2026-05-27",
+      "endDate": "",
+      "deadline": "",
+      "method": "원문 확인 필요",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0zUWJzOW00Y0Y0a29yek40a0Zzd2NvdlZMYzVra1o2bEJEU1dISVVNMzZtSHVhbWFZU0pKNUxZaFRxd0UxRXdwdmtoc2tLZGxPTmc?oc=5",
+      "summary": [
+        "비료 관련 정보가 감지되었습니다.",
+        "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
+        "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
+      ],
+      "collected_at": "2026-05-28T08:22:52+09:00"
+    },
+    {
+      "id": "8acc29d59a92cd73",
+      "title": "기장군, ‘유기질비료 지원사업’ 6월부터 신청 개시 - 부산일보",
+      "source": "부산일보",
+      "region": "전국",
+      "category": "비료",
+      "published_at": "2026-05-27",
+      "startDate": "2026-05-27",
+      "endDate": "",
+      "deadline": "",
+      "method": "원문 확인 필요",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTGdrRUo1OHdxUkhpNHlXVE1saHRETjdnRW03Qy04RzZiVURJR1ZXcUpRdEJ1ZGdQMGVLWkdrOHRVWHRkMU9JYUdIcGhXQzhyeUFxaElUQWFZakpNSWh2bmdfZzRUMWhwOXhUZ1FQZEEyekVGaUJINmdpVWhMVGo3Q09B?oc=5",
+      "summary": [
+        "비료 관련 정보가 감지되었습니다.",
+        "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
+        "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
+      ],
+      "collected_at": "2026-05-28T08:22:52+09:00"
+    },
+    {
+      "id": "767e6f3d7a0b6510",
+      "title": "충남도립대 스마트팜학과, 상토부터 엑비까지 직접 배운다 - 충남인터넷뉴스",
+      "source": "충남인터넷뉴스",
+      "region": "충남",
+      "category": "상토",
+      "published_at": "2026-05-27",
+      "startDate": "2026-05-27",
+      "endDate": "",
+      "deadline": "",
+      "method": "원문 확인 필요",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBrSGhkbFc5ODcyY3AzbzRXdmNsTWVhX3dSZC12MHU0ajZ6RmFrWU0zUHF5WUVLWDFTdVZUOWwyeDlPbTNvWDAwSEJWSUFIQWEzZWRMdUN2Q2VUckZ1WVBRZnZLbkpGeDR6?oc=5",
+      "summary": [
+        "상토 관련 정보가 감지되었습니다.",
+        "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
+        "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
+      ],
+      "collected_at": "2026-05-28T08:22:50+09:00"
+    },
     {
       "id": "1e09e4c09966061b",
       "title": "기장군, ‘유기질비료 지원사업’ 6월부터 신청 개시 - 부산일보",
@@ -41,25 +117,6 @@
       "collected_at": "2026-05-27T17:36:51+09:00"
     },
     {
-      "id": "a7a6eb76440619e7",
-      "title": "창녕군, 내년도 친환경농업 육성 유기질 비료 지원 - 뉴시스",
-      "source": "뉴시스",
-      "region": "전국",
-      "category": "비료",
-      "published_at": "2026-05-27",
-      "startDate": "2026-05-27",
-      "endDate": "",
-      "deadline": "",
-      "method": "원문 확인 필요",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAzN1ZJcDlpXzN6OVNfWTJNUGJiNDBzdkd5SVI4T2dsWUhqenZsaGVESXQ0d1c3UEhUU1lFcXhVcFoyQzljeTZnakd2ak90OUEtQVR4MDd6T2dYOHBnV2N0eNIBeEFVX3lxTFBKdmhzc1BfYXFmcnUtMTJ6dEtleUZLNlpYQUJBRzN5ZXdEb185VnVVRUowVUhTZEk1NU56cFRtRFI0eGh5ZlVuak9YUWVvOVlQX1B2Zk9hSzd2V1pPeTQzdjlVYU9kejdyNm9acGZNVVFjcmhCdktoUQ?oc=5",
-      "summary": [
-        "비료 관련 정보가 감지되었습니다.",
-        "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
-        "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
-      ],
-      "collected_at": "2026-05-27T17:36:51+09:00"
-    },
-    {
       "id": "283ce469e43bd52c",
       "title": "여수시, 2027년 유기질비료 지원사업 신청 접수 - 여수시청",
       "source": "여수시청",
@@ -79,25 +136,6 @@
       "collected_at": "2026-05-27T17:36:51+09:00"
     },
     {
-      "id": "767e6f3d7a0b6510",
-      "title": "충남도립대 스마트팜학과, 상토부터 엑비까지 직접 배운다 - 충남인터넷뉴스",
-      "source": "충남인터넷뉴스",
-      "region": "충남",
-      "category": "상토",
-      "published_at": "2026-05-27",
-      "startDate": "2026-05-27",
-      "endDate": "",
-      "deadline": "",
-      "method": "원문 확인 필요",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBrSGhkbFc5ODcyY3AzbzRXdmNsTWVhX3dSZC12MHU0ajZ6RmFrWU0zUHF5WUVLWDFTdVZUOWwyeDlPbTNvWDAwSEJWSUFIQWEzZWRMdUN2Q2VUckZ1WVBRZnZLbkpGeDR6?oc=5",
-      "summary": [
-        "상토 관련 정보가 감지되었습니다.",
-        "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
-        "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
-      ],
-      "collected_at": "2026-05-27T17:36:50+09:00"
-    },
-    {
       "id": "df939fe0cd734664",
       "title": "[위클리오늘] 연천군, 2027년 공급 유기질비료 신청 접수…6월로 앞당겨 시행 - 위클리오늘",
       "source": "위클리오늘",
@@ -114,7 +152,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-05-27T17:36:51+09:00"
+      "collected_at": "2026-05-28T08:22:52+09:00"
     },
     {
       "id": "1445ecb3147c1110",
@@ -133,7 +171,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-05-27T17:36:51+09:00"
+      "collected_at": "2026-05-28T08:22:52+09:00"
     },
     {
       "id": "40ac37043ab5639c",
@@ -152,7 +190,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-05-27T17:36:51+09:00"
+      "collected_at": "2026-05-28T08:22:52+09:00"
     },
     {
       "id": "3256503f4b814db1",
@@ -190,7 +228,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-05-27T17:36:51+09:00"
+      "collected_at": "2026-05-28T08:22:52+09:00"
     },
     {
       "id": "df64b9431f7276bd",
@@ -209,7 +247,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-05-27T17:36:51+09:00"
+      "collected_at": "2026-05-28T08:22:52+09:00"
     },
     {
       "id": "24297fb1ccf77594",
@@ -228,7 +266,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-05-27T17:36:51+09:00"
+      "collected_at": "2026-05-28T08:22:52+09:00"
     },
     {
       "id": "f027321cfb69c3c0",
@@ -247,7 +285,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-05-27T17:36:51+09:00"
+      "collected_at": "2026-05-28T08:22:52+09:00"
     },
     {
       "id": "1556487b6aa622d5",
@@ -269,6 +307,25 @@
       "collected_at": "2026-05-27T08:36:47+09:00"
     },
     {
+      "id": "306992f538c64142",
+      "title": "“K-작물보호제에 반했어요!” 브라질 농산업 관계자들 방한 - 영농자재신문",
+      "source": "영농자재신문",
+      "region": "전국",
+      "category": "농약",
+      "published_at": "2026-05-21",
+      "startDate": "2026-05-21",
+      "endDate": "",
+      "deadline": "",
+      "method": "원문 확인 필요",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE01eHlqV2NHS3JWbjBOc2tPdUhYYTc0SGhIV29wMWVGMHZ0ZHZyZEJzcEREU3loS1gwZ0pSb002VWYxQ0JSSWZjREZrcVFOSXd4bmtETXJ1LUtuYTB4?oc=5",
+      "summary": [
+        "농약 관련 정보가 감지되었습니다.",
+        "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
+        "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
+      ],
+      "collected_at": "2026-05-28T08:22:51+09:00"
+    },
+    {
       "id": "0b5acac2ef83c474",
       "title": "사천시, “2027년 유기질비료 지원받으세요” 6월부터 신청 시작 - 경남뉴스통신",
       "source": "경남뉴스통신",
@@ -286,25 +343,6 @@
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
       "collected_at": "2026-05-27T17:36:51+09:00"
-    },
-    {
-      "id": "306992f538c64142",
-      "title": "“K-작물보호제에 반했어요!” 브라질 농산업 관계자들 방한 - 영농자재신문",
-      "source": "영농자재신문",
-      "region": "전국",
-      "category": "농약",
-      "published_at": "2026-05-21",
-      "startDate": "2026-05-21",
-      "endDate": "",
-      "deadline": "",
-      "method": "원문 확인 필요",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE01eHlqV2NHS3JWbjBOc2tPdUhYYTc0SGhIV29wMWVGMHZ0ZHZyZEJzcEREU3loS1gwZ0pSb002VWYxQ0JSSWZjREZrcVFOSXd4bmtETXJ1LUtuYTB4?oc=5",
-      "summary": [
-        "농약 관련 정보가 감지되었습니다.",
-        "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
-        "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
-      ],
-      "collected_at": "2026-05-27T17:36:50+09:00"
     },
     {
       "id": "a482437cad72172b",
@@ -361,7 +399,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-05-27T17:36:51+09:00"
+      "collected_at": "2026-05-28T08:22:52+09:00"
     },
     {
       "id": "ac671128eb1ea8e0",
@@ -380,7 +418,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-05-27T17:36:51+09:00"
+      "collected_at": "2026-05-28T08:22:52+09:00"
     },
     {
       "id": "8f61695b06bf40b5",
@@ -399,7 +437,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-05-27T17:36:51+09:00"
+      "collected_at": "2026-05-28T08:22:52+09:00"
     },
     {
       "id": "593d8687a3a48eaf",
@@ -456,7 +494,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-05-27T17:36:51+09:00"
+      "collected_at": "2026-05-28T08:22:52+09:00"
     },
     {
       "id": "f98a06194cd4a33f",
@@ -494,7 +532,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-05-27T17:36:51+09:00"
+      "collected_at": "2026-05-28T08:22:52+09:00"
     },
     {
       "id": "46de64a432722559",
@@ -513,7 +551,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-05-27T17:36:51+09:00"
+      "collected_at": "2026-05-28T08:22:52+09:00"
     },
     {
       "id": "d9ce285122a26d98",
@@ -551,26 +589,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-05-27T17:36:51+09:00"
-    },
-    {
-      "id": "0994223351d63c52",
-      "title": "정읍시, 벼 종자 발아율 검사 지원 추진 - 이로운넷",
-      "source": "이로운넷",
-      "region": "전국",
-      "category": "종자",
-      "published_at": "2026-04-21",
-      "startDate": "2026-04-21",
-      "endDate": "",
-      "deadline": "",
-      "method": "원문 확인 필요",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBTR0NlUXVGbnBjbGRmWURsdmk2WHJiaEczV2owdVB6TEhMWGI5SDdOMmstZWx2MzFTcG0zRUZlN09PRnNBTlhwWkpHV2xVM2YwZS00VF8xRjRBdDFqTzRLdmdMMXRhdw?oc=5",
-      "summary": [
-        "종자 관련 정보가 감지되었습니다.",
-        "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
-        "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
-      ],
-      "collected_at": "2026-05-27T17:36:50+09:00"
+      "collected_at": "2026-05-28T08:22:52+09:00"
     },
     {
       "id": "8595f4d5d6d5df30",
@@ -589,7 +608,26 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-05-27T08:36:47+09:00"
+      "collected_at": "2026-05-28T08:22:52+09:00"
+    },
+    {
+      "id": "0994223351d63c52",
+      "title": "정읍시, 벼 종자 발아율 검사 지원 추진 - 이로운넷",
+      "source": "이로운넷",
+      "region": "전국",
+      "category": "종자",
+      "published_at": "2026-04-21",
+      "startDate": "2026-04-21",
+      "endDate": "",
+      "deadline": "",
+      "method": "원문 확인 필요",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBTR0NlUXVGbnBjbGRmWURsdmk2WHJiaEczV2owdVB6TEhMWGI5SDdOMmstZWx2MzFTcG0zRUZlN09PRnNBTlhwWkpHV2xVM2YwZS00VF8xRjRBdDFqTzRLdmdMMXRhdw?oc=5",
+      "summary": [
+        "종자 관련 정보가 감지되었습니다.",
+        "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
+        "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
+      ],
+      "collected_at": "2026-05-28T08:22:51+09:00"
     },
     {
       "id": "e20cd199af45e261",
@@ -608,7 +646,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-05-27T17:36:50+09:00"
+      "collected_at": "2026-05-28T08:22:51+09:00"
     },
     {
       "id": "924647fc685ec452",
@@ -627,7 +665,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-05-27T17:36:50+09:00"
+      "collected_at": "2026-05-28T08:22:51+09:00"
     },
     {
       "id": "706f9a1b8bd5afda",
@@ -646,7 +684,26 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-05-27T17:36:50+09:00"
+      "collected_at": "2026-05-28T08:22:51+09:00"
+    },
+    {
+      "id": "f1cd8eef4b007192",
+      "title": "해남군, ‘풍년농사 첫단추 ’벼 못자리용 상토 지원 확대 - 농수축산신문",
+      "source": "농수축산신문",
+      "region": "전국",
+      "category": "상토",
+      "published_at": "2026-03-23",
+      "startDate": "2026-03-23",
+      "endDate": "",
+      "deadline": "",
+      "method": "원문 확인 필요",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBhUDIwMTJFQkxiOFFUZTJjWGdWLXdDZEl0MXVEd1hpamx2M2tKLW1IYmFyM210ZVAtajFIREdPRS1WSzR4QU40NkdTQzlyeklfNkduT3ZVUXhRT19FM1d3bGJGb2IwVlBtUEF1Rg?oc=5",
+      "summary": [
+        "상토 관련 정보가 감지되었습니다.",
+        "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
+        "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
+      ],
+      "collected_at": "2026-05-28T08:22:50+09:00"
     },
     {
       "id": "0389145cd0f802c5",
@@ -665,7 +722,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-05-27T17:36:50+09:00"
+      "collected_at": "2026-05-28T08:22:50+09:00"
     },
     {
       "id": "e1629e159456e13f",
@@ -684,7 +741,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-05-27T17:36:50+09:00"
+      "collected_at": "2026-05-28T08:22:51+09:00"
     },
     {
       "id": "8de4266e1dd381ee",
@@ -703,7 +760,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-05-27T17:36:50+09:00"
+      "collected_at": "2026-05-28T08:22:51+09:00"
     },
     {
       "id": "f3e932260a490b9b",
@@ -722,7 +779,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-05-27T17:36:50+09:00"
+      "collected_at": "2026-05-28T08:22:51+09:00"
     },
     {
       "id": "a9f91a637395c230",
@@ -741,7 +798,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-05-27T17:36:50+09:00"
+      "collected_at": "2026-05-28T08:22:50+09:00"
     },
     {
       "id": "acf1aa56e75e3f14",
@@ -760,7 +817,26 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-05-27T17:36:50+09:00"
+      "collected_at": "2026-05-28T08:22:51+09:00"
+    },
+    {
+      "id": "cc082fdd9b3f7a5d",
+      "title": "대전 기업 그린팜, 강원도농업기술원 민간사업 ‘찰옥수수 종자 안정생산’ - 브레이크뉴스",
+      "source": "브레이크뉴스",
+      "region": "전국",
+      "category": "종자",
+      "published_at": "2026-01-28",
+      "startDate": "2026-01-28",
+      "endDate": "",
+      "deadline": "",
+      "method": "원문 확인 필요",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5QS2owdGg4djB6QzRMblNLeEQ1MXg0Y2xmWnVoTDlDXzdpR1hpYVRoNkN1TTRTMjV1S2gxeFBxOHVXRUR5WmFUSQ?oc=5",
+      "summary": [
+        "종자 관련 정보가 감지되었습니다.",
+        "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
+        "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
+      ],
+      "collected_at": "2026-05-28T08:22:51+09:00"
     },
     {
       "id": "bedebe8174a6d0d3",
@@ -798,7 +874,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-05-27T17:36:50+09:00"
+      "collected_at": "2026-05-28T08:22:51+09:00"
     },
     {
       "id": "16733aef188eeadd",
@@ -817,7 +893,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-05-27T17:36:50+09:00"
+      "collected_at": "2026-05-28T08:22:51+09:00"
     },
     {
       "id": "2207c48a7a25c9fb",
@@ -836,7 +912,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-05-27T17:36:50+09:00"
+      "collected_at": "2026-05-28T08:22:51+09:00"
     },
     {
       "id": "64f2f7091eb7bdeb",
@@ -874,7 +950,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-05-27T17:36:50+09:00"
+      "collected_at": "2026-05-28T08:22:51+09:00"
     },
     {
       "id": "fdbd7b5c6f7e2148",
@@ -893,7 +969,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-05-27T17:36:50+09:00"
+      "collected_at": "2026-05-28T08:22:51+09:00"
     },
     {
       "id": "367810974f3d98bf",
@@ -912,7 +988,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-05-27T17:36:50+09:00"
+      "collected_at": "2026-05-28T08:22:50+09:00"
     },
     {
       "id": "06af21ad4fd10572",
@@ -931,7 +1007,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-05-27T17:36:50+09:00"
+      "collected_at": "2026-05-28T08:22:51+09:00"
     },
     {
       "id": "d97c5d5aca807e57",
@@ -950,7 +1026,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-05-27T17:36:50+09:00"
+      "collected_at": "2026-05-28T08:22:51+09:00"
     },
     {
       "id": "90475aa2e581f128",
@@ -988,7 +1064,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-05-27T17:36:50+09:00"
+      "collected_at": "2026-05-28T08:22:50+09:00"
     },
     {
       "id": "f7a66a2b8a75b946",
@@ -1007,7 +1083,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-05-27T17:36:51+09:00"
+      "collected_at": "2026-05-28T08:22:52+09:00"
     },
     {
       "id": "6976ee8a137b46c0",
@@ -1026,7 +1102,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-05-27T17:36:50+09:00"
+      "collected_at": "2026-05-28T08:22:51+09:00"
     },
     {
       "id": "7eea6d5d67fe14b3",
@@ -1045,7 +1121,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-05-27T17:36:50+09:00"
+      "collected_at": "2026-05-28T08:22:50+09:00"
     },
     {
       "id": "c3c826cc6fce643c",
@@ -1064,7 +1140,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-05-27T17:36:50+09:00"
+      "collected_at": "2026-05-28T08:22:51+09:00"
     },
     {
       "id": "b8094e639c024721",
@@ -1083,7 +1159,7 @@
         "지역과 품목 관련성이 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-05-27T17:36:50+09:00"
+      "collected_at": "2026-05-28T08:22:51+09:00"
     },
     {
       "id": "412f437aaa7751b8",
@@ -1102,7 +1178,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-05-27T17:36:50+09:00"
+      "collected_at": "2026-05-28T08:22:51+09:00"
     },
     {
       "id": "3223f15075f9ad0e",
@@ -1121,7 +1197,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-05-27T17:36:50+09:00"
+      "collected_at": "2026-05-28T08:22:51+09:00"
     },
     {
       "id": "ef0278f193e11b33",
@@ -1159,7 +1235,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-05-27T17:36:50+09:00"
+      "collected_at": "2026-05-28T08:22:51+09:00"
     },
     {
       "id": "003388b8cc66a4f9",
@@ -1178,7 +1254,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-05-27T17:36:50+09:00"
+      "collected_at": "2026-05-28T08:22:51+09:00"
     },
     {
       "id": "357613105af2cedc",
@@ -1197,7 +1273,26 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-05-27T17:36:50+09:00"
+      "collected_at": "2026-05-28T08:22:51+09:00"
+    },
+    {
+      "id": "c31447cfef504f82",
+      "title": "유기농 종자 품종 시장 규모, 점유율 및 추세, 2034 - Global Market Insights Inc.",
+      "source": "Global Market Insights Inc.",
+      "region": "전국",
+      "category": "종자",
+      "published_at": "2025-06-28",
+      "startDate": "2025-06-28",
+      "endDate": "",
+      "deadline": "",
+      "method": "원문 확인 필요",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRkphM0k1N3BfTTdaVm1JRWNYb1hHaE9lUUZMS2h0WFNwTFdFUFMyaG1GcEc3QzVrbkR4WkpzZXdWcUtVY3RpdktBQjhmb3RmX2lOOC1pdEh0aEFhSmNfTndtT2VqbnV2alhKazVFcFZZZ2NjTFkzcHZWMVN4VUl4MkVocw?oc=5",
+      "summary": [
+        "종자 관련 정보가 감지되었습니다.",
+        "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
+        "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
+      ],
+      "collected_at": "2026-05-28T08:22:51+09:00"
     },
     {
       "id": "cfeba9a4ec6dc533",
@@ -1216,7 +1311,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-05-27T17:36:51+09:00"
+      "collected_at": "2026-05-28T08:22:52+09:00"
     },
     {
       "id": "eb454ed94157607d",
@@ -1254,7 +1349,26 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-05-27T17:36:50+09:00"
+      "collected_at": "2026-05-28T08:22:50+09:00"
+    },
+    {
+      "id": "77a15f5176e3f14e",
+      "title": "거제시, 벼 종자 소독 철저 당부 - 한산신문",
+      "source": "한산신문",
+      "region": "전국",
+      "category": "종자",
+      "published_at": "2025-04-17",
+      "startDate": "2025-04-17",
+      "endDate": "",
+      "deadline": "",
+      "method": "원문 확인 필요",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Gck52blVXQmF4bjBFZUQ3TklyNXdzcUljdk5DcnBnV0VTLVZlRWlrUkcxajZjQ2pfc01zcUFObkhXdUVhTmVOZlRYaHg2ODFuS3FPT0RIanhweVZ1c3BMNlJ1TVFWZ296aVFOUw?oc=5",
+      "summary": [
+        "종자 관련 정보가 감지되었습니다.",
+        "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
+        "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
+      ],
+      "collected_at": "2026-05-28T08:22:51+09:00"
     },
     {
       "id": "7f402a8678711c6b",
@@ -1273,7 +1387,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-05-27T17:36:50+09:00"
+      "collected_at": "2026-05-28T08:22:50+09:00"
     },
     {
       "id": "9c907a64ec48e0b9",
@@ -1292,7 +1406,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-05-27T17:36:51+09:00"
+      "collected_at": "2026-05-28T08:22:52+09:00"
     },
     {
       "id": "995343f700857cb3",
@@ -1311,7 +1425,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-05-27T17:36:50+09:00"
+      "collected_at": "2026-05-28T08:22:50+09:00"
     },
     {
       "id": "311873f255967e10",
@@ -1330,7 +1444,26 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-05-27T17:36:50+09:00"
+      "collected_at": "2026-05-28T08:22:51+09:00"
+    },
+    {
+      "id": "fe879223a0f269a5",
+      "title": "작물보호제 개발 여건 악화 속 성장잠재력은 여전 - 영농자재신문",
+      "source": "영농자재신문",
+      "region": "전국",
+      "category": "농약",
+      "published_at": "2024-11-14",
+      "startDate": "2024-11-14",
+      "endDate": "",
+      "deadline": "",
+      "method": "원문 확인 필요",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5HdjlaQXJweE9YTFJiXzhoS2JrdXNCSVpKRklHaW1ROWhkNU5IYXhRcmlrM1k5UUdQUVhwWXhqTHdKSV9hbWViU044NXVNNjh3U2JUOTRoWVZoNUQ0UEE?oc=5",
+      "summary": [
+        "농약 관련 정보가 감지되었습니다.",
+        "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
+        "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
+      ],
+      "collected_at": "2026-05-28T08:22:51+09:00"
     },
     {
       "id": "d6ac0b0ffd3e5a36",
@@ -1349,7 +1482,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-05-27T17:36:50+09:00"
+      "collected_at": "2026-05-28T08:22:51+09:00"
     },
     {
       "id": "a641f1e4481b0dea",
@@ -1387,7 +1520,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-05-27T17:36:50+09:00"
+      "collected_at": "2026-05-28T08:22:50+09:00"
     },
     {
       "id": "40f61d7f25a2d63a",
@@ -1406,7 +1539,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-05-27T17:36:50+09:00"
+      "collected_at": "2026-05-28T08:22:51+09:00"
     },
     {
       "id": "cf0b04367ff9c5c1",
@@ -1425,7 +1558,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-05-27T17:36:51+09:00"
+      "collected_at": "2026-05-28T08:22:52+09:00"
     },
     {
       "id": "36b0dda12c71fd52",
@@ -1444,7 +1577,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-05-27T17:36:50+09:00"
+      "collected_at": "2026-05-28T08:22:51+09:00"
     },
     {
       "id": "f695b143f3f69c02",
@@ -1463,7 +1596,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-05-27T17:36:50+09:00"
+      "collected_at": "2026-05-28T08:22:51+09:00"
     },
     {
       "id": "956f555a0e1044b6",
@@ -1482,7 +1615,26 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-05-27T17:36:50+09:00"
+      "collected_at": "2026-05-28T08:22:51+09:00"
+    },
+    {
+      "id": "5c49e0240fbba408",
+      "title": "화학비료 지원금 중단, 친환경농업 발전 계기로 - ecojournal.co.kr",
+      "source": "ecojournal.co.kr",
+      "region": "전국",
+      "category": "비료",
+      "published_at": "2024-03-11",
+      "startDate": "2024-03-11",
+      "endDate": "",
+      "deadline": "",
+      "method": "원문 확인 필요",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBrb1U5Q2pXLWdBdHluRTBmSU8xalpVVW9QYlk5TjloSW93SzRCQTBZc2RRN2ZuT2E1VjlqZEtzZ1IyLUE2dktuYWxMME9Wc2RobTNHSHJ3XzBlek83Z3RzTng1QkR3bWttUHBLVW9DN2hxZDN1RW0w?oc=5",
+      "summary": [
+        "비료 관련 정보가 감지되었습니다.",
+        "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
+        "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
+      ],
+      "collected_at": "2026-05-28T08:22:51+09:00"
     },
     {
       "id": "3e7a1863107be22d",
@@ -1501,7 +1653,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-05-27T17:36:50+09:00"
+      "collected_at": "2026-05-28T08:22:50+09:00"
     },
     {
       "id": "1121d99044cefdc7",
@@ -1520,7 +1672,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-05-27T17:36:50+09:00"
+      "collected_at": "2026-05-28T08:22:51+09:00"
     },
     {
       "id": "bcf926ad0254a5c0",
@@ -1539,7 +1691,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-05-27T17:36:50+09:00"
+      "collected_at": "2026-05-28T08:22:51+09:00"
     },
     {
       "id": "d50ef19a95af4494",
@@ -1559,6 +1711,25 @@
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
       "collected_at": "2026-05-27T17:36:50+09:00"
+    },
+    {
+      "id": "873d63030c2ba9ca",
+      "title": "K-시드밸리 조성해 고부가 종자 개발 - 영농자재신문",
+      "source": "영농자재신문",
+      "region": "전국",
+      "category": "종자",
+      "published_at": "2023-03-15",
+      "startDate": "2023-03-15",
+      "endDate": "",
+      "deadline": "",
+      "method": "원문 확인 필요",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9QNXRJX0FfWlFoQzVVSTJOZ2tkS1JNaGJ1ZGhBUTBHdjNWalZfck8yeEpKckwxQXVjVFhleUZCT0JRcUVRclNLdU1MalhZMGU2S3ZQTmRvT2FGY2doSEE?oc=5",
+      "summary": [
+        "종자 관련 정보가 감지되었습니다.",
+        "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
+        "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
+      ],
+      "collected_at": "2026-05-28T08:22:51+09:00"
     },
     {
       "id": "6ce2dfbe84e16eb9",
@@ -1596,7 +1767,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-05-27T17:36:50+09:00"
+      "collected_at": "2026-05-28T08:22:50+09:00"
     },
     {
       "id": "d8fd46fbd1ea40e5",
@@ -1615,7 +1786,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-05-27T17:36:50+09:00"
+      "collected_at": "2026-05-28T08:22:50+09:00"
     },
     {
       "id": "a72e09628e272c72",
@@ -1634,7 +1805,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-05-27T17:36:50+09:00"
+      "collected_at": "2026-05-28T08:22:51+09:00"
     },
     {
       "id": "c1c6305b180f2c7a",
@@ -1653,7 +1824,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-05-27T17:36:50+09:00"
+      "collected_at": "2026-05-28T08:22:51+09:00"
     },
     {
       "id": "810cb9d97dbdba94",
@@ -1672,7 +1843,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-05-27T17:36:50+09:00"
+      "collected_at": "2026-05-28T08:22:50+09:00"
     },
     {
       "id": "d5c363e6c75a8701",
@@ -1691,7 +1862,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-05-27T17:36:50+09:00"
+      "collected_at": "2026-05-28T08:22:51+09:00"
     },
     {
       "id": "5fc9d86f9895e893",
@@ -1710,7 +1881,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-05-27T17:36:50+09:00"
+      "collected_at": "2026-05-28T08:22:51+09:00"
     },
     {
       "id": "f5f436412895aaaf",
@@ -1729,7 +1900,7 @@
         "지역과 품목 관련성이 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-05-27T17:36:50+09:00"
+      "collected_at": "2026-05-28T08:22:51+09:00"
     },
     {
       "id": "d2e054ea8d8e8ef6",
@@ -1786,7 +1957,7 @@
         "지역과 품목 관련성이 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-05-27T17:36:50+09:00"
+      "collected_at": "2026-05-28T08:22:51+09:00"
     },
     {
       "id": "251520cdaf854f5b",
@@ -1805,7 +1976,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-05-27T17:36:50+09:00"
+      "collected_at": "2026-05-28T08:22:51+09:00"
     },
     {
       "id": "695c34755049c94b",
@@ -1862,7 +2033,7 @@
         "지역과 품목 관련성이 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-05-27T08:36:47+09:00"
+      "collected_at": "2026-05-28T08:22:52+09:00"
     },
     {
       "id": "2e8767b2b0bb11eb",
@@ -1900,7 +2071,26 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-05-27T17:36:50+09:00"
+      "collected_at": "2026-05-28T08:22:51+09:00"
+    },
+    {
+      "id": "03ca1243b1f13b1e",
+      "title": "부산물비료 특등급 국고지원 상향하라 - 농촌여성신문",
+      "source": "농촌여성신문",
+      "region": "전국",
+      "category": "비료",
+      "published_at": "2015-11-12",
+      "startDate": "2015-11-12",
+      "endDate": "",
+      "deadline": "",
+      "method": "원문 확인 필요",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9VRlFsRzBXSHM1YTF4NTBXb3RZcVl2UU10RmZaTUNLelhVbHdqZHBVNWRHU0VzSy1YMGxwOGt1Z1FJc2d3ZFUyQWZWVWpua3B5LV8yN3RaelJkSFR4MVNESUVVb3pjZ9IBakFVX3lxTE51NHBKeXJWZ0lIdlRoTDlXWUhTU0J2UXZZaDVrVnI5NjFBMFJZZWJUdnltMnRhNUplZWhiMXQtT0poMzU1Q0ZIYXlHc1h4UHZNTHBqaU5MUTUtcmxwRVVIRzE4OEt1N1Y2LWc?oc=5",
+      "summary": [
+        "비료 관련 정보가 감지되었습니다.",
+        "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
+        "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
+      ],
+      "collected_at": "2026-05-28T08:22:51+09:00"
     },
     {
       "id": "1d370a25d4d06588",
@@ -1919,7 +2109,45 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-05-27T17:36:50+09:00"
+      "collected_at": "2026-05-28T08:22:51+09:00"
+    },
+    {
+      "id": "43593c098d59b3e3",
+      "title": "'유기질비료 1위' 효성오앤비 \"2016년부터 정부 정책 수혜…고성장 이룰 것\" - 한국경제",
+      "source": "한국경제",
+      "region": "전국",
+      "category": "비료",
+      "published_at": "2014-06-22",
+      "startDate": "2014-06-22",
+      "endDate": "",
+      "deadline": "",
+      "method": "원문 확인 필요",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ERl9FMFR0X25RTWJxdHpET1BuVktzWFNiZVNqSGgzOWpTeFp3V2lLMEhmaXZwa2dhdlRyUlhuWE9TWlN5TkZkX0g1U01CU2JKWldCa3F2T2Zmd9IBVEFVX3lxTE90cTZSTVZiTzZUcUZHSGhPOXFjNlVfTU1wQ1Q3bWFqYW9OU2N1V0dZOVhxYnl3aENjc3hCZDZOa19YZWJvQ2RJdFVxMG1WUW1lOXRYbw?oc=5",
+      "summary": [
+        "비료 관련 정보가 감지되었습니다.",
+        "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
+        "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
+      ],
+      "collected_at": "2026-05-28T08:22:51+09:00"
+    },
+    {
+      "id": "2923ff615c1e9373",
+      "title": "부숙퇴비만 사용해야 하는 이유 - 제주일보",
+      "source": "제주일보",
+      "region": "전국",
+      "category": "퇴비",
+      "published_at": "2006-05-15",
+      "startDate": "2006-05-15",
+      "endDate": "",
+      "deadline": "",
+      "method": "원문 확인 필요",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9wX0VhRTlyRDJjY0N3MGg0c2R0Um1jcndZd0l5THFnS0RsNldhdXRlWS1HaVdEZlhwam9lTEI2YzBHb1lIMFpHSGF5VzV5VmtmTFdiSXhCNlBiS0VBUm8wZnN0RWtxdEExd1E?oc=5",
+      "summary": [
+        "퇴비 관련 정보가 감지되었습니다.",
+        "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
+        "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
+      ],
+      "collected_at": "2026-05-28T08:22:51+09:00"
     }
   ]
 }
