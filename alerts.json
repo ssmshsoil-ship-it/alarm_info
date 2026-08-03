@@ -1,7 +1,26 @@
 {
-  "generated_at": "2026-08-03T08:00:46+09:00",
+  "generated_at": "2026-08-03T17:23:57+09:00",
   "timezone": "Asia/Seoul",
   "alerts": [
+    {
+      "id": "dcfd0ec24dce3996",
+      "title": "작물보호협회, 농진청과 함께 ‘작물보호제 지침서' 전산화...정보 신속전달 기대 - 한국농촌경제신문",
+      "source": "한국농촌경제신문",
+      "region": "전국",
+      "category": "농약",
+      "published_at": "2026-08-03",
+      "startDate": "2026-08-03",
+      "endDate": "",
+      "deadline": "",
+      "method": "원문 확인 필요",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5wY19faFdOaTQ3ZTF4TlFOQXR0b0s4RnkzckNQdzNJVEwwYlA1bGg5VlFOTU45X1hkbFUxS2V5dk0ySUJaRk9RTF9XcUVRV2FGc1ExX2N0MUFodWJpMUpOcg?oc=5",
+      "summary": [
+        "농약 관련 정보가 감지되었습니다.",
+        "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
+        "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
+      ],
+      "collected_at": "2026-08-03T17:23:56+09:00"
+    },
     {
       "id": "384885bd57e824f9",
       "title": "‘작물보호제(농약) 지침서 전산화’사업 완성됐다 - 영농자재신문",
@@ -19,7 +38,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-08-03T08:00:45+09:00"
+      "collected_at": "2026-08-03T17:23:56+09:00"
     },
     {
       "id": "25d996cf79712209",
@@ -38,7 +57,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-08-03T08:00:45+09:00"
+      "collected_at": "2026-08-03T17:23:56+09:00"
     },
     {
       "id": "435d0c5248985e5a",
@@ -57,7 +76,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-08-03T08:00:45+09:00"
+      "collected_at": "2026-08-03T17:23:56+09:00"
     },
     {
       "id": "7096652324b53f88",
@@ -76,7 +95,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-08-03T08:00:45+09:00"
+      "collected_at": "2026-08-03T17:23:56+09:00"
     },
     {
       "id": "49a448b056b7f9a1",
@@ -95,7 +114,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-08-03T08:00:45+09:00"
+      "collected_at": "2026-08-03T17:23:56+09:00"
     },
     {
       "id": "e8bd3e8bfe7702b8",
@@ -133,7 +152,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-08-03T08:00:45+09:00"
+      "collected_at": "2026-08-03T17:23:57+09:00"
     },
     {
       "id": "5e28de0395799cb6",
@@ -171,7 +190,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-08-03T08:00:44+09:00"
+      "collected_at": "2026-08-03T17:23:56+09:00"
     },
     {
       "id": "8983d61db333f71d",
@@ -266,7 +285,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-08-03T08:00:45+09:00"
+      "collected_at": "2026-08-03T17:23:57+09:00"
     },
     {
       "id": "8b3f4f3488f8bf7f",
@@ -304,7 +323,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-08-03T08:00:45+09:00"
+      "collected_at": "2026-08-03T17:23:56+09:00"
     },
     {
       "id": "eab5ed20fdeca900",
@@ -323,7 +342,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-08-03T08:00:45+09:00"
+      "collected_at": "2026-08-03T17:23:56+09:00"
     },
     {
       "id": "d6c6ccd40ad7d9a9",
@@ -418,7 +437,26 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-08-03T08:00:45+09:00"
+      "collected_at": "2026-08-03T17:23:56+09:00"
+    },
+    {
+      "id": "203bbcc4bfd0ba93",
+      "title": "참외 품질 높이고 상토 비용 줄이고…여주시 농업기술 현장 검증 - 팔당유역신문",
+      "source": "팔당유역신문",
+      "region": "전국",
+      "category": "상토",
+      "published_at": "2026-07-03",
+      "startDate": "2026-07-03",
+      "endDate": "",
+      "deadline": "",
+      "method": "원문 확인 필요",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5MTUtUQ0Y3NEFUSHdLZkdWdzBpZ0ZheF9YQXp3cndvZjZBY0RsaHpaaXpoQkVieGpwMUFqWGU3WXVfbnYybzRITHA4SlFfeGFZdW5SLWI2UnEwS2UxVVF0ZlZOSFlsOGIyekdN?oc=5",
+      "summary": [
+        "상토 관련 정보가 감지되었습니다.",
+        "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
+        "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
+      ],
+      "collected_at": "2026-08-03T17:23:56+09:00"
     },
     {
       "id": "d5339ff0c95784a7",
@@ -438,25 +476,6 @@
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
       "collected_at": "2026-08-03T08:00:44+09:00"
-    },
-    {
-      "id": "203bbcc4bfd0ba93",
-      "title": "참외 품질 높이고 상토 비용 줄이고…여주시 농업기술 현장 검증 - 팔당유역신문",
-      "source": "팔당유역신문",
-      "region": "전국",
-      "category": "상토",
-      "published_at": "2026-07-03",
-      "startDate": "2026-07-03",
-      "endDate": "",
-      "deadline": "",
-      "method": "원문 확인 필요",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5MTUtUQ0Y3NEFUSHdLZkdWdzBpZ0ZheF9YQXp3cndvZjZBY0RsaHpaaXpoQkVieGpwMUFqWGU3WXVfbnYybzRITHA4SlFfeGFZdW5SLWI2UnEwS2UxVVF0ZlZOSFlsOGIyekdN?oc=5",
-      "summary": [
-        "상토 관련 정보가 감지되었습니다.",
-        "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
-        "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
-      ],
-      "collected_at": "2026-08-02T16:28:56+09:00"
     },
     {
       "id": "4540ec8bd4a3a5f4",
@@ -494,7 +513,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-08-03T08:00:45+09:00"
+      "collected_at": "2026-08-03T17:23:56+09:00"
     },
     {
       "id": "9cd5f5e22be0452d",
@@ -513,7 +532,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-08-03T08:00:45+09:00"
+      "collected_at": "2026-08-03T17:23:56+09:00"
     },
     {
       "id": "3e9147db93658ce0",
@@ -551,7 +570,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-08-03T08:00:45+09:00"
+      "collected_at": "2026-08-03T17:23:56+09:00"
     },
     {
       "id": "d82b03910dc77976",
@@ -570,7 +589,45 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-08-03T08:00:45+09:00"
+      "collected_at": "2026-08-03T17:23:56+09:00"
+    },
+    {
+      "id": "a2f393912e294ea3",
+      "title": "작물보호협회, ‘작물보호제지침서’ 발간 눈길 - 한국농촌경제신문",
+      "source": "한국농촌경제신문",
+      "region": "전국",
+      "category": "농약",
+      "published_at": "2026-07-01",
+      "startDate": "2026-07-01",
+      "endDate": "",
+      "deadline": "",
+      "method": "원문 확인 필요",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB0STlxTHhWSDRDZ1hzR05BX2VkRHVicWVnekZSMnVva25XVFRJZGUtLWdPVlBWOWUySE03TUl0d2xXaXhBc1dLQXhxV1YwVkdna1YxWEM0TXdvcUk?oc=5",
+      "summary": [
+        "농약 관련 정보가 감지되었습니다.",
+        "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
+        "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
+      ],
+      "collected_at": "2026-08-03T17:23:56+09:00"
+    },
+    {
+      "id": "89468a7e109f8370",
+      "title": "(사)한국작물보호협회, ‘2026 작물보호제 지침서’ 1만부 발간 - 전업농신문",
+      "source": "전업농신문",
+      "region": "전국",
+      "category": "농약",
+      "published_at": "2026-07-01",
+      "startDate": "2026-07-01",
+      "endDate": "",
+      "deadline": "",
+      "method": "원문 확인 필요",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1SbkpmSEdCT2JyZU1HQzJjX1JEOHVCWjNGU2VSd2Eyck5qV0I4a0hNbGhTem9qZk9JaVl4TEd1Y3I5Zk44MjdHY1FMV3BVOWM3RlBKekhVWk9nZnpIZnk4WWZHUnpkSkE1QjA3ZQ?oc=5",
+      "summary": [
+        "농약 관련 정보가 감지되었습니다.",
+        "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
+        "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
+      ],
+      "collected_at": "2026-08-03T17:23:56+09:00"
     },
     {
       "id": "abccec7fbe43162c",
@@ -590,44 +647,6 @@
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
       "collected_at": "2026-08-03T08:00:45+09:00"
-    },
-    {
-      "id": "a2f393912e294ea3",
-      "title": "작물보호협회, ‘작물보호제지침서’ 발간 눈길 - 한국농촌경제신문",
-      "source": "한국농촌경제신문",
-      "region": "전국",
-      "category": "농약",
-      "published_at": "2026-07-01",
-      "startDate": "2026-07-01",
-      "endDate": "",
-      "deadline": "",
-      "method": "원문 확인 필요",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB0STlxTHhWSDRDZ1hzR05BX2VkRHVicWVnekZSMnVva25XVFRJZGUtLWdPVlBWOWUySE03TUl0d2xXaXhBc1dLQXhxV1YwVkdna1YxWEM0TXdvcUk?oc=5",
-      "summary": [
-        "농약 관련 정보가 감지되었습니다.",
-        "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
-        "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
-      ],
-      "collected_at": "2026-08-03T08:00:45+09:00"
-    },
-    {
-      "id": "89468a7e109f8370",
-      "title": "(사)한국작물보호협회, ‘2026 작물보호제 지침서’ 1만부 발간 - 전업농신문",
-      "source": "전업농신문",
-      "region": "전국",
-      "category": "농약",
-      "published_at": "2026-07-01",
-      "startDate": "2026-07-01",
-      "endDate": "",
-      "deadline": "",
-      "method": "원문 확인 필요",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1SbkpmSEdCT2JyZU1HQzJjX1JEOHVCWjNGU2VSd2Eyck5qV0I4a0hNbGhTem9qZk9JaVl4TEd1Y3I5Zk44MjdHY1FMV3BVOWM3RlBKekhVWk9nZnpIZnk4WWZHUnpkSkE1QjA3ZQ?oc=5",
-      "summary": [
-        "농약 관련 정보가 감지되었습니다.",
-        "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
-        "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
-      ],
-      "collected_at": "2026-08-02T16:28:56+09:00"
     },
     {
       "id": "e18210deb21c373c",
@@ -684,7 +703,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-08-03T08:00:46+09:00"
+      "collected_at": "2026-08-03T17:23:57+09:00"
     },
     {
       "id": "75627b911c317b30",
@@ -798,7 +817,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-08-03T08:00:45+09:00"
+      "collected_at": "2026-08-03T17:23:57+09:00"
     },
     {
       "id": "3898284457c7ca80",
@@ -836,7 +855,7 @@
         "지역과 품목 관련성이 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-08-03T08:00:45+09:00"
+      "collected_at": "2026-08-03T17:23:56+09:00"
     },
     {
       "id": "dbbb0f318c74d1a0",
@@ -931,7 +950,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-08-03T08:00:46+09:00"
+      "collected_at": "2026-08-03T17:23:57+09:00"
     },
     {
       "id": "525a92416d3e8fca",
@@ -988,7 +1007,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-08-03T08:00:45+09:00"
+      "collected_at": "2026-08-03T17:23:57+09:00"
     },
     {
       "id": "0ff09721115d2181",
@@ -1159,7 +1178,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-08-03T08:00:45+09:00"
+      "collected_at": "2026-08-03T17:23:57+09:00"
     },
     {
       "id": "fd40a128d3db0b1a",
@@ -1520,7 +1539,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-08-03T08:00:45+09:00"
+      "collected_at": "2026-08-03T17:23:57+09:00"
     },
     {
       "id": "a289d2040e0c8168",
@@ -1653,7 +1672,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-08-03T08:00:45+09:00"
+      "collected_at": "2026-08-03T17:23:57+09:00"
     },
     {
       "id": "b562d2b2dacc94c6",
@@ -1881,7 +1900,26 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-08-03T08:00:45+09:00"
+      "collected_at": "2026-08-03T17:23:57+09:00"
+    },
+    {
+      "id": "58b6977acba74002",
+      "title": "[전남소식] 전남도, 유기질비료 지원사업 ‘6월부터 조기 접수’ 등 - bizwnews.com",
+      "source": "bizwnews.com",
+      "region": "전남",
+      "category": "비료",
+      "published_at": "2026-05-31",
+      "startDate": "2026-05-31",
+      "endDate": "",
+      "deadline": "",
+      "method": "원문 확인 필요",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE03UjhWdDVSUDN4TmFmTkgtWV9uUzI0aExHTGRUU1lQLTR2T01Cc09OU1pEdnM2UXRka0NZSTJlYmUxZjBNSFdpMXREdnZfeHNHWGM1WDhzSDBJQWYyOVZkeGI1RGQ1RHltQS13?oc=5",
+      "summary": [
+        "비료 관련 정보가 감지되었습니다.",
+        "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
+        "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
+      ],
+      "collected_at": "2026-08-03T17:23:56+09:00"
     },
     {
       "id": "f628fffd7ca9c0fa",
@@ -1920,25 +1958,6 @@
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
       "collected_at": "2026-08-03T08:00:44+09:00"
-    },
-    {
-      "id": "58b6977acba74002",
-      "title": "[전남소식] 전남도, 유기질비료 지원사업 ‘6월부터 조기 접수’ 등 - bizwnews.com",
-      "source": "bizwnews.com",
-      "region": "전남",
-      "category": "비료",
-      "published_at": "2026-05-31",
-      "startDate": "2026-05-31",
-      "endDate": "",
-      "deadline": "",
-      "method": "원문 확인 필요",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE03UjhWdDVSUDN4TmFmTkgtWV9uUzI0aExHTGRUU1lQLTR2T01Cc09OU1pEdnM2UXRka0NZSTJlYmUxZjBNSFdpMXREdnZfeHNHWGM1WDhzSDBJQWYyOVZkeGI1RGQ1RHltQS13?oc=5",
-      "summary": [
-        "비료 관련 정보가 감지되었습니다.",
-        "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
-        "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
-      ],
-      "collected_at": "2026-08-01T08:09:38+09:00"
     },
     {
       "id": "3b55056af7c60cf0",
@@ -2451,7 +2470,26 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-08-03T08:00:45+09:00"
+      "collected_at": "2026-08-03T17:23:57+09:00"
+    },
+    {
+      "id": "2a4140e5aab8f61d",
+      "title": "충남도립대 스마트팜학과, 상토부터 엑비까지 직접 배운다 - 특급뉴스",
+      "source": "특급뉴스",
+      "region": "충남",
+      "category": "상토",
+      "published_at": "2026-05-27",
+      "startDate": "2026-05-27",
+      "endDate": "",
+      "deadline": "",
+      "method": "원문 확인 필요",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5CaHlJbWJrWmVzMGVndWRmckxsRDJsOE9KNGZJSXVtNTNiZjE1TGsxTlBMZldnUjdvQUVhLXh2NlF1dHZyNEpIVGVNc2hwT1MwZ01WakxFN0pyS1llLVVyX2Q2c3ZaVGZPUkdNZWpnNkNlZw?oc=5",
+      "summary": [
+        "상토 관련 정보가 감지되었습니다.",
+        "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
+        "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
+      ],
+      "collected_at": "2026-08-03T17:23:56+09:00"
     },
     {
       "id": "4c5f92b2e3525454",
@@ -2490,25 +2528,6 @@
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
       "collected_at": "2026-07-31T16:47:49+09:00"
-    },
-    {
-      "id": "2a4140e5aab8f61d",
-      "title": "충남도립대 스마트팜학과, 상토부터 엑비까지 직접 배운다 - 특급뉴스",
-      "source": "특급뉴스",
-      "region": "충남",
-      "category": "상토",
-      "published_at": "2026-05-27",
-      "startDate": "2026-05-27",
-      "endDate": "",
-      "deadline": "",
-      "method": "원문 확인 필요",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5CaHlJbWJrWmVzMGVndWRmckxsRDJsOE9KNGZJSXVtNTNiZjE1TGsxTlBMZldnUjdvQUVhLXh2NlF1dHZyNEpIVGVNc2hwT1MwZ01WakxFN0pyS1llLVVyX2Q2c3ZaVGZPUkdNZWpnNkNlZw?oc=5",
-      "summary": [
-        "상토 관련 정보가 감지되었습니다.",
-        "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
-        "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
-      ],
-      "collected_at": "2026-07-27T17:25:46+09:00"
     },
     {
       "id": "8dbef0e81461f4cb",
@@ -3157,6 +3176,25 @@
       "collected_at": "2026-06-05T08:15:45+09:00"
     },
     {
+      "id": "331d102c6d3aa886",
+      "title": "제천 벼농가 ‘생육불량’ 피해 잇따라…어떤 상토 썼길래 - 농민신문",
+      "source": "농민신문",
+      "region": "전국",
+      "category": "상토",
+      "published_at": "2026-05-20",
+      "startDate": "2026-05-20",
+      "endDate": "",
+      "deadline": "",
+      "method": "원문 확인 필요",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4zSmhNdGVhNjkxN3VZd2hKa2NSOXdCenNCb2hnTE0wdG9yeFE3LVlmT1lhWHRWTWZ6RFc4SU1SWkNiSW1xdnJDb3VSZFFTMlNyalZ3b1VPdWVGZw?oc=5",
+      "summary": [
+        "상토 관련 정보가 감지되었습니다.",
+        "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
+        "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
+      ],
+      "collected_at": "2026-08-03T17:23:56+09:00"
+    },
+    {
       "id": "779aff1ba2f89e97",
       "title": "보령시, 2027년 공급 유기질비료 신청 접수 - 충청타임즈",
       "source": "충청타임즈",
@@ -3174,25 +3212,6 @@
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
       "collected_at": "2026-08-03T08:00:45+09:00"
-    },
-    {
-      "id": "331d102c6d3aa886",
-      "title": "제천 벼농가 ‘생육불량’ 피해 잇따라…어떤 상토 썼길래 - 농민신문",
-      "source": "농민신문",
-      "region": "전국",
-      "category": "상토",
-      "published_at": "2026-05-20",
-      "startDate": "2026-05-20",
-      "endDate": "",
-      "deadline": "",
-      "method": "원문 확인 필요",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4zSmhNdGVhNjkxN3VZd2hKa2NSOXdCenNCb2hnTE0wdG9yeFE3LVlmT1lhWHRWTWZ6RFc4SU1SWkNiSW1xdnJDb3VSZFFTMlNyalZ3b1VPdWVGZw?oc=5",
-      "summary": [
-        "상토 관련 정보가 감지되었습니다.",
-        "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
-        "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
-      ],
-      "collected_at": "2026-08-03T08:00:44+09:00"
     },
     {
       "id": "977c1d5dbd11b879",
@@ -3382,7 +3401,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-08-03T08:00:44+09:00"
+      "collected_at": "2026-08-03T17:23:56+09:00"
     },
     {
       "id": "69985359294c4425",
@@ -3477,7 +3496,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-08-03T08:00:45+09:00"
+      "collected_at": "2026-08-03T17:23:56+09:00"
     },
     {
       "id": "d9ce285122a26d98",
@@ -3496,7 +3515,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-08-03T08:00:45+09:00"
+      "collected_at": "2026-08-03T17:23:57+09:00"
     },
     {
       "id": "46de64a432722559",
@@ -3553,7 +3572,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-08-03T08:00:45+09:00"
+      "collected_at": "2026-08-03T17:23:57+09:00"
     },
     {
       "id": "b31aa58922bfbc0e",
@@ -3591,7 +3610,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-08-03T08:00:45+09:00"
+      "collected_at": "2026-08-03T17:23:57+09:00"
     },
     {
       "id": "a772200a6db0c207",
@@ -3648,7 +3667,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-08-03T08:00:44+09:00"
+      "collected_at": "2026-08-03T17:23:56+09:00"
     },
     {
       "id": "924647fc685ec452",
@@ -3667,7 +3686,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-08-03T08:00:44+09:00"
+      "collected_at": "2026-08-03T17:23:56+09:00"
     },
     {
       "id": "6575dfd7f736090f",
@@ -3782,25 +3801,6 @@
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
       "collected_at": "2026-05-28T17:39:49+09:00"
-    },
-    {
-      "id": "0389145cd0f802c5",
-      "title": "‘벼 못자리 상토’ 지원 대폭 확대…‘해남군, 풍년 농사 준비 착착’ - 전남타임스",
-      "source": "전남타임스",
-      "region": "전남",
-      "category": "상토",
-      "published_at": "2026-03-20",
-      "startDate": "2026-03-20",
-      "endDate": "",
-      "deadline": "",
-      "method": "원문 확인 필요",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9DZDlRb3RUSVpqM3pkWHJVZ0cyUlh3VkI5b0FJTHpMLVRGSy1NeHZkTUhkbUNkekZoYnJSd0hSRWt6Nnk0RmlIN0EyMjE2VjNZUllwWEp2c1ZjcVVVejNkTmdXWUNPOFE?oc=5",
-      "summary": [
-        "상토 관련 정보가 감지되었습니다.",
-        "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
-        "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
-      ],
-      "collected_at": "2026-08-02T16:28:56+09:00"
     }
   ]
 }
