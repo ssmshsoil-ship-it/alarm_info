@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T18:19:10+09:00",
+  "generated_at": "2026-09-12T09:03:49+09:00",
   "timezone": "Asia/Seoul",
   "alerts": [
     {
@@ -19,7 +19,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-09-11T18:19:08+09:00"
+      "collected_at": "2026-09-12T09:03:47+09:00"
     },
     {
       "id": "aa90fddc2e2097a3",
@@ -38,7 +38,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-09-11T18:19:09+09:00"
+      "collected_at": "2026-09-12T09:03:47+09:00"
     },
     {
       "id": "adc9bf8da68624df",
@@ -57,7 +57,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-09-11T18:19:09+09:00"
+      "collected_at": "2026-09-12T09:03:48+09:00"
     },
     {
       "id": "d9dee61476252025",
@@ -190,7 +190,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-09-11T18:19:09+09:00"
+      "collected_at": "2026-09-12T09:03:47+09:00"
     },
     {
       "id": "8b06ce200c64ba42",
@@ -209,7 +209,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-09-11T18:19:09+09:00"
+      "collected_at": "2026-09-12T09:03:47+09:00"
     },
     {
       "id": "126c68106f7acb4f",
@@ -399,7 +399,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-09-11T18:19:09+09:00"
+      "collected_at": "2026-09-12T09:03:47+09:00"
     },
     {
       "id": "a059a149b3cea3ea",
@@ -478,6 +478,44 @@
       "collected_at": "2026-08-31T09:21:43+09:00"
     },
     {
+      "id": "435d0c5248985e5a",
+      "title": "농약 정보, 웹·모바일로 바로 찾는다···‘작물보호제 지침서’ 전산화 완료 - 한국농어민신문",
+      "source": "한국농어민신문",
+      "region": "전국",
+      "category": "농약",
+      "published_at": "2026-08-03",
+      "startDate": "2026-08-03",
+      "endDate": "",
+      "deadline": "",
+      "method": "원문 확인 필요",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1IUkRxUTJsMWdSbUt4UzgwTldhcUQ2MktRZU5OS0ZTWWpuV05JYzNoUFpWUEpGY1ZoY014dEdVbTEzdEZHT1ZFQ1lsNzBvXzVBUkZpV0txeTlVN0REVE9zMDROWjVVeDBmaG0wQQ?oc=5",
+      "summary": [
+        "농약 관련 정보가 감지되었습니다.",
+        "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
+        "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
+      ],
+      "collected_at": "2026-09-12T09:03:47+09:00"
+    },
+    {
+      "id": "167c4fee64f71455",
+      "title": "작물보호협회, 농진청과 함께 ‘작물보호제 지침서' 전산화...정보 신속전달 기대 - kenews.co.kr",
+      "source": "kenews.co.kr",
+      "region": "전국",
+      "category": "농약",
+      "published_at": "2026-08-03",
+      "startDate": "2026-08-03",
+      "endDate": "",
+      "deadline": "",
+      "method": "원문 확인 필요",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5wY19faFdOaTQ3ZTF4TlFOQXR0b0s4RnkzckNQdzNJVEwwYlA1bGg5VlFOTU45X1hkbFUxS2V5dk0ySUJaRk9RTF9XcUVRV2FGc1ExX2N0MUFodWJpMUpOcg?oc=5",
+      "summary": [
+        "농약 관련 정보가 감지되었습니다.",
+        "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
+        "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
+      ],
+      "collected_at": "2026-09-12T09:03:47+09:00"
+    },
+    {
       "id": "dcfd0ec24dce3996",
       "title": "작물보호협회, 농진청과 함께 ‘작물보호제 지침서' 전산화...정보 신속전달 기대 - 한국농촌경제신문",
       "source": "한국농촌경제신문",
@@ -516,44 +554,6 @@
       "collected_at": "2026-09-11T18:19:09+09:00"
     },
     {
-      "id": "435d0c5248985e5a",
-      "title": "농약 정보, 웹·모바일로 바로 찾는다···‘작물보호제 지침서’ 전산화 완료 - 한국농어민신문",
-      "source": "한국농어민신문",
-      "region": "전국",
-      "category": "농약",
-      "published_at": "2026-08-03",
-      "startDate": "2026-08-03",
-      "endDate": "",
-      "deadline": "",
-      "method": "원문 확인 필요",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1IUkRxUTJsMWdSbUt4UzgwTldhcUQ2MktRZU5OS0ZTWWpuV05JYzNoUFpWUEpGY1ZoY014dEdVbTEzdEZHT1ZFQ1lsNzBvXzVBUkZpV0txeTlVN0REVE9zMDROWjVVeDBmaG0wQQ?oc=5",
-      "summary": [
-        "농약 관련 정보가 감지되었습니다.",
-        "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
-        "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
-      ],
-      "collected_at": "2026-09-10T18:20:45+09:00"
-    },
-    {
-      "id": "167c4fee64f71455",
-      "title": "작물보호협회, 농진청과 함께 ‘작물보호제 지침서' 전산화...정보 신속전달 기대 - kenews.co.kr",
-      "source": "kenews.co.kr",
-      "region": "전국",
-      "category": "농약",
-      "published_at": "2026-08-03",
-      "startDate": "2026-08-03",
-      "endDate": "",
-      "deadline": "",
-      "method": "원문 확인 필요",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5wY19faFdOaTQ3ZTF4TlFOQXR0b0s4RnkzckNQdzNJVEwwYlA1bGg5VlFOTU45X1hkbFUxS2V5dk0ySUJaRk9RTF9XcUVRV2FGc1ExX2N0MUFodWJpMUpOcg?oc=5",
-      "summary": [
-        "농약 관련 정보가 감지되었습니다.",
-        "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
-        "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
-      ],
-      "collected_at": "2026-09-01T10:10:33+09:00"
-    },
-    {
       "id": "384885bd57e824f9",
       "title": "‘작물보호제(농약) 지침서 전산화’사업 완성됐다 - 영농자재신문",
       "source": "영농자재신문",
@@ -570,7 +570,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-09-11T18:19:09+09:00"
+      "collected_at": "2026-09-12T09:03:47+09:00"
     },
     {
       "id": "25d996cf79712209",
@@ -589,7 +589,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-09-11T18:19:09+09:00"
+      "collected_at": "2026-09-12T09:03:47+09:00"
     },
     {
       "id": "fe32c2c630c56d95",
@@ -684,7 +684,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-09-11T18:19:09+09:00"
+      "collected_at": "2026-09-12T09:03:47+09:00"
     },
     {
       "id": "e8bd3e8bfe7702b8",
@@ -950,7 +950,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-09-11T18:19:09+09:00"
+      "collected_at": "2026-09-12T09:03:47+09:00"
     },
     {
       "id": "e468ca83cd25af81",
@@ -988,7 +988,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-09-11T18:19:09+09:00"
+      "collected_at": "2026-09-12T09:03:48+09:00"
     },
     {
       "id": "39df542c90c293bd",
@@ -1121,7 +1121,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-09-11T18:19:09+09:00"
+      "collected_at": "2026-09-12T09:03:47+09:00"
     },
     {
       "id": "1c5f163b732763c9",
@@ -1216,7 +1216,26 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-09-11T18:19:09+09:00"
+      "collected_at": "2026-09-12T09:03:47+09:00"
+    },
+    {
+      "id": "0831a31ed355d277",
+      "title": "2026 작물보호제 지침서 발간···안전 농산물 생산 길잡이 - 한국농어민신문",
+      "source": "한국농어민신문",
+      "region": "전국",
+      "category": "농약",
+      "published_at": "2026-07-02",
+      "startDate": "2026-07-02",
+      "endDate": "",
+      "deadline": "",
+      "method": "원문 확인 필요",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9QVUNfZzA2V2Nmd0x4b2lEc3lGMUlKbzBGOXJYQXMxSUhlcWo0REVCWHA3VWI0RUNSOVNqOFFlMnF2TV84OXlpdmdOOEZWbEdTTlR4Nm85UnlxaGR0NXdxLU95c2JBSlY2RDBjUg?oc=5",
+      "summary": [
+        "농약 관련 정보가 감지되었습니다.",
+        "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
+        "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
+      ],
+      "collected_at": "2026-09-12T09:03:47+09:00"
     },
     {
       "id": "ff7615d432a15354",
@@ -1236,25 +1255,6 @@
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
       "collected_at": "2026-09-11T18:19:09+09:00"
-    },
-    {
-      "id": "0831a31ed355d277",
-      "title": "2026 작물보호제 지침서 발간···안전 농산물 생산 길잡이 - 한국농어민신문",
-      "source": "한국농어민신문",
-      "region": "전국",
-      "category": "농약",
-      "published_at": "2026-07-02",
-      "startDate": "2026-07-02",
-      "endDate": "",
-      "deadline": "",
-      "method": "원문 확인 필요",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9QVUNfZzA2V2Nmd0x4b2lEc3lGMUlKbzBGOXJYQXMxSUhlcWo0REVCWHA3VWI0RUNSOVNqOFFlMnF2TV84OXlpdmdOOEZWbEdTTlR4Nm85UnlxaGR0NXdxLU95c2JBSlY2RDBjUg?oc=5",
-      "summary": [
-        "농약 관련 정보가 감지되었습니다.",
-        "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
-        "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
-      ],
-      "collected_at": "2026-09-10T18:20:45+09:00"
     },
     {
       "id": "55a2e496e5fb1bf8",
@@ -1330,26 +1330,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-09-11T18:19:09+09:00"
-    },
-    {
-      "id": "a2f393912e294ea3",
-      "title": "작물보호협회, ‘작물보호제지침서’ 발간 눈길 - 한국농촌경제신문",
-      "source": "한국농촌경제신문",
-      "region": "전국",
-      "category": "농약",
-      "published_at": "2026-07-01",
-      "startDate": "2026-07-01",
-      "endDate": "",
-      "deadline": "",
-      "method": "원문 확인 필요",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB0STlxTHhWSDRDZ1hzR05BX2VkRHVicWVnekZSMnVva25XVFRJZGUtLWdPVlBWOWUySE03TUl0d2xXaXhBc1dLQXhxV1YwVkdna1YxWEM0TXdvcUk?oc=5",
-      "summary": [
-        "농약 관련 정보가 감지되었습니다.",
-        "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
-        "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
-      ],
-      "collected_at": "2026-09-11T18:19:09+09:00"
+      "collected_at": "2026-09-12T09:03:47+09:00"
     },
     {
       "id": "d82b03910dc77976",
@@ -1363,6 +1344,63 @@
       "deadline": "",
       "method": "원문 확인 필요",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBtRHhoYW1ORGJtOWtNYkVtQmdDdDNNU2RuUUctcEJVUHNMOXRYVmsyWmhVQlUtRVIweTFIeTlUNzgzOTBid2d5djFFTHloY3JhMzdkSlRzN0wzZw?oc=5",
+      "summary": [
+        "농약 관련 정보가 감지되었습니다.",
+        "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
+        "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
+      ],
+      "collected_at": "2026-09-12T09:03:47+09:00"
+    },
+    {
+      "id": "89468a7e109f8370",
+      "title": "(사)한국작물보호협회, ‘2026 작물보호제 지침서’ 1만부 발간 - 전업농신문",
+      "source": "전업농신문",
+      "region": "전국",
+      "category": "농약",
+      "published_at": "2026-07-01",
+      "startDate": "2026-07-01",
+      "endDate": "",
+      "deadline": "",
+      "method": "원문 확인 필요",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1SbkpmSEdCT2JyZU1HQzJjX1JEOHVCWjNGU2VSd2Eyck5qV0I4a0hNbGhTem9qZk9JaVl4TEd1Y3I5Zk44MjdHY1FMV3BVOWM3RlBKekhVWk9nZnpIZnk4WWZHUnpkSkE1QjA3ZQ?oc=5",
+      "summary": [
+        "농약 관련 정보가 감지되었습니다.",
+        "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
+        "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
+      ],
+      "collected_at": "2026-09-12T09:03:47+09:00"
+    },
+    {
+      "id": "ed2bd8b1cc42f045",
+      "title": "작물보호협회, ‘작물보호제지침서’ 발간 눈길 - kenews.co.kr",
+      "source": "kenews.co.kr",
+      "region": "전국",
+      "category": "농약",
+      "published_at": "2026-07-01",
+      "startDate": "2026-07-01",
+      "endDate": "",
+      "deadline": "",
+      "method": "원문 확인 필요",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB0STlxTHhWSDRDZ1hzR05BX2VkRHVicWVnekZSMnVva25XVFRJZGUtLWdPVlBWOWUySE03TUl0d2xXaXhBc1dLQXhxV1YwVkdna1YxWEM0TXdvcUk?oc=5",
+      "summary": [
+        "농약 관련 정보가 감지되었습니다.",
+        "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
+        "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
+      ],
+      "collected_at": "2026-09-12T09:03:47+09:00"
+    },
+    {
+      "id": "a2f393912e294ea3",
+      "title": "작물보호협회, ‘작물보호제지침서’ 발간 눈길 - 한국농촌경제신문",
+      "source": "한국농촌경제신문",
+      "region": "전국",
+      "category": "농약",
+      "published_at": "2026-07-01",
+      "startDate": "2026-07-01",
+      "endDate": "",
+      "deadline": "",
+      "method": "원문 확인 필요",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB0STlxTHhWSDRDZ1hzR05BX2VkRHVicWVnekZSMnVva25XVFRJZGUtLWdPVlBWOWUySE03TUl0d2xXaXhBc1dLQXhxV1YwVkdna1YxWEM0TXdvcUk?oc=5",
       "summary": [
         "농약 관련 정보가 감지되었습니다.",
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
@@ -1388,25 +1426,6 @@
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
       "collected_at": "2026-09-11T18:19:09+09:00"
-    },
-    {
-      "id": "89468a7e109f8370",
-      "title": "(사)한국작물보호협회, ‘2026 작물보호제 지침서’ 1만부 발간 - 전업농신문",
-      "source": "전업농신문",
-      "region": "전국",
-      "category": "농약",
-      "published_at": "2026-07-01",
-      "startDate": "2026-07-01",
-      "endDate": "",
-      "deadline": "",
-      "method": "원문 확인 필요",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1SbkpmSEdCT2JyZU1HQzJjX1JEOHVCWjNGU2VSd2Eyck5qV0I4a0hNbGhTem9qZk9JaVl4TEd1Y3I5Zk44MjdHY1FMV3BVOWM3RlBKekhVWk9nZnpIZnk4WWZHUnpkSkE1QjA3ZQ?oc=5",
-      "summary": [
-        "농약 관련 정보가 감지되었습니다.",
-        "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
-        "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
-      ],
-      "collected_at": "2026-09-11T08:56:52+09:00"
     },
     {
       "id": "e18210deb21c373c",
@@ -1447,25 +1466,6 @@
       "collected_at": "2026-09-05T17:45:41+09:00"
     },
     {
-      "id": "ed2bd8b1cc42f045",
-      "title": "작물보호협회, ‘작물보호제지침서’ 발간 눈길 - kenews.co.kr",
-      "source": "kenews.co.kr",
-      "region": "전국",
-      "category": "농약",
-      "published_at": "2026-07-01",
-      "startDate": "2026-07-01",
-      "endDate": "",
-      "deadline": "",
-      "method": "원문 확인 필요",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB0STlxTHhWSDRDZ1hzR05BX2VkRHVicWVnekZSMnVva25XVFRJZGUtLWdPVlBWOWUySE03TUl0d2xXaXhBc1dLQXhxV1YwVkdna1YxWEM0TXdvcUk?oc=5",
-      "summary": [
-        "농약 관련 정보가 감지되었습니다.",
-        "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
-        "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
-      ],
-      "collected_at": "2026-08-20T07:31:30+09:00"
-    },
-    {
       "id": "f4370967ec79965f",
       "title": "작물보호협회, ‘작물보호제지침서’ 발간 눈길 - 한국농촌경제신문",
       "source": "한국농촌경제신문",
@@ -1501,7 +1501,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-09-11T18:19:10+09:00"
+      "collected_at": "2026-09-12T09:03:49+09:00"
     },
     {
       "id": "a5c97e1edbedd479",
@@ -1653,7 +1653,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-09-11T18:19:09+09:00"
+      "collected_at": "2026-09-12T09:03:48+09:00"
     },
     {
       "id": "3898284457c7ca80",
@@ -1919,7 +1919,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-09-11T18:19:10+09:00"
+      "collected_at": "2026-09-12T09:03:48+09:00"
     },
     {
       "id": "4bda193ac2f8070c",
@@ -2223,7 +2223,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-09-11T18:19:10+09:00"
+      "collected_at": "2026-09-12T09:03:48+09:00"
     },
     {
       "id": "c987b2cc84174ed6",
@@ -2242,7 +2242,7 @@
         "지역과 품목 관련성이 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-09-11T18:19:09+09:00"
+      "collected_at": "2026-09-12T09:03:48+09:00"
     },
     {
       "id": "8fc5f56be5425acd",
@@ -2660,7 +2660,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-09-11T18:19:10+09:00"
+      "collected_at": "2026-09-12T09:03:48+09:00"
     },
     {
       "id": "ce6b981031307933",
@@ -2983,7 +2983,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-09-11T18:19:10+09:00"
+      "collected_at": "2026-09-12T09:03:48+09:00"
     },
     {
       "id": "f91ba5fb1ea94a8d",
@@ -3002,7 +3002,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-09-11T18:19:10+09:00"
+      "collected_at": "2026-09-12T09:03:48+09:00"
     },
     {
       "id": "6c610342ebf768e4",
@@ -3249,7 +3249,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-09-11T18:19:10+09:00"
+      "collected_at": "2026-09-12T09:03:48+09:00"
     },
     {
       "id": "cecf8a82cca1bd7f",
@@ -3344,7 +3344,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-09-11T18:19:10+09:00"
+      "collected_at": "2026-09-12T09:03:48+09:00"
     },
     {
       "id": "cb6d72bd6671203a",
@@ -3572,7 +3572,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-09-11T18:19:10+09:00"
+      "collected_at": "2026-09-12T09:03:48+09:00"
     },
     {
       "id": "2a4140e5aab8f61d",
@@ -3591,7 +3591,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-09-11T18:19:08+09:00"
+      "collected_at": "2026-09-12T09:03:47+09:00"
     },
     {
       "id": "a471f68dae88c4b3",
