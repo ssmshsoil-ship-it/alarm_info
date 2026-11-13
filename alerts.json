@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T11:30:10+09:00",
+  "generated_at": "2026-11-13T21:48:03+09:00",
   "timezone": "Asia/Seoul",
   "alerts": [
     {
@@ -19,7 +19,83 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-11-13T11:30:10+09:00"
+      "collected_at": "2026-11-13T21:48:03+09:00"
+    },
+    {
+      "id": "ae486be4210ad498",
+      "title": "남원시, 16개 읍면에 '농업e지' 키오스크 운영…농업행정 접근성 높여 - 국제뉴스",
+      "source": "국제뉴스",
+      "region": "남원",
+      "category": "농업e지",
+      "published_at": "2026-11-13",
+      "startDate": "2026-11-13",
+      "endDate": "",
+      "deadline": "",
+      "method": "원문 확인 필요",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1GMjF5bzUtTUNhUXBubXNiRjZrZW1wR2Mwa3pod0tDSGR0QXE5ZjFUX1FCQ09QSXdVM0JUb25rWExrcS0xWW5VT2twNGU1OEs3dFczMTRKc1BqbHZYMmxGbTBKVnVIamdDOUxpNXVR?oc=5",
+      "summary": [
+        "농업e지 관련 정보가 감지되었습니다.",
+        "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
+        "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
+      ],
+      "collected_at": "2026-11-13T21:48:03+09:00"
+    },
+    {
+      "id": "25074b38087381c2",
+      "title": "합천 적중면, 관내 첫 ‘농업e지 키오스크’ 설치 - 다바(DABA)뉴스",
+      "source": "다바(DABA)뉴스",
+      "region": "전국",
+      "category": "농업e지",
+      "published_at": "2026-11-13",
+      "startDate": "2026-11-13",
+      "endDate": "",
+      "deadline": "",
+      "method": "원문 확인 필요",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ZMVBYNUxLcEhqTkVyQk00bHpxbGVuVTNFWkRnYUt6YjJQUVA2WFp2M3o0dkhQUDY4b0t2QlFIakxwQ25mSlVfNzMxTmo5dTQ0Vy1XS3o3MmpxaXBtNjFjVy1fakJ0ai1KVDZVbVFZakfSAXBBVV95cUxPWTFQWDVMS3BIak5FckJNNGx6cWxlblUzRVpEZ2FLemIyUFFQNlhadjN6NHZIUFA2OG9LdkJRSGpMcENuZkpVXzczMU5qOXU0NFctV0t6NzJqcWlwbTYxY1ctX2pCdGotSlQ2VW1RWWpH?oc=5",
+      "summary": [
+        "농업e지 관련 정보가 감지되었습니다.",
+        "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
+        "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
+      ],
+      "collected_at": "2026-11-13T21:48:03+09:00"
+    },
+    {
+      "id": "ef196a609a6805bf",
+      "title": "남원시, 농업e지 “키오스크”설치 완료...디지털 농업행정 본격 가동 - 전북투데이",
+      "source": "전북투데이",
+      "region": "전북",
+      "category": "농업e지",
+      "published_at": "2026-11-13",
+      "startDate": "2026-11-13",
+      "endDate": "",
+      "deadline": "",
+      "method": "원문 확인 필요",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE81VmppZXZSQlZxTG81UXZ6RFl5TF9CZi1PYzRHSjg5Z1ZyRW9UUUxhVHlUQmttaWZCdVgtS0dPd1BLMDJfWHNDdWtuRkVTNU1BYXhYQUstbVFseWxHOTE5d1FId1lVQQ?oc=5",
+      "summary": [
+        "농업e지 관련 정보가 감지되었습니다.",
+        "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
+        "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
+      ],
+      "collected_at": "2026-11-13T21:48:03+09:00"
+    },
+    {
+      "id": "2fe29474b5a313fc",
+      "title": "남원 농업행정, 읍·면 키오스크로 해결…16곳에 '농업e지' 도입 - 더펜뉴스",
+      "source": "더펜뉴스",
+      "region": "남원",
+      "category": "농업e지",
+      "published_at": "2026-11-13",
+      "startDate": "2026-11-13",
+      "endDate": "",
+      "deadline": "",
+      "method": "원문 확인 필요",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zQUZmTXU4aGlNeExzcllwREVrM29sdVl3V3ZhRnE4Z3VOSU5WTkRmT281bWI4bzJudjNmNVJvV0xqOVN6Vnc5S3kzTGF3V1RGVEFyWXRPTGM5LTZ0UktRcVNjQQ?oc=5",
+      "summary": [
+        "농업e지 관련 정보가 감지되었습니다.",
+        "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
+        "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
+      ],
+      "collected_at": "2026-11-13T21:48:03+09:00"
     },
     {
       "id": "e0821b8163cb2629",
@@ -57,7 +133,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-11-13T11:30:10+09:00"
+      "collected_at": "2026-11-13T21:48:03+09:00"
     },
     {
       "id": "c44b76b6d3b4a572",
@@ -190,7 +266,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-11-13T11:30:10+09:00"
+      "collected_at": "2026-11-13T21:48:03+09:00"
     },
     {
       "id": "e2c9b764266be376",
@@ -209,7 +285,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-11-13T11:30:09+09:00"
+      "collected_at": "2026-11-13T21:48:02+09:00"
     },
     {
       "id": "519b95edd6bf1872",
@@ -266,7 +342,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-11-13T11:30:10+09:00"
+      "collected_at": "2026-11-13T21:48:03+09:00"
     },
     {
       "id": "a0081165c85e5a8e",
@@ -285,7 +361,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-11-13T11:30:10+09:00"
+      "collected_at": "2026-11-13T21:48:03+09:00"
     },
     {
       "id": "058a90dfcaaa891d",
@@ -494,7 +570,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-11-13T11:30:09+09:00"
+      "collected_at": "2026-11-13T21:48:02+09:00"
     },
     {
       "id": "ad6ddb19856dbb70",
@@ -1083,7 +1159,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-11-13T11:30:09+09:00"
+      "collected_at": "2026-11-13T21:48:02+09:00"
     },
     {
       "id": "8c1a5759c9a4fe01",
@@ -1254,7 +1330,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-11-13T11:30:09+09:00"
+      "collected_at": "2026-11-13T21:48:02+09:00"
     },
     {
       "id": "384885bd57e824f9",
@@ -1273,7 +1349,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-11-13T11:30:09+09:00"
+      "collected_at": "2026-11-13T21:48:02+09:00"
     },
     {
       "id": "fe32c2c630c56d95",
@@ -1330,7 +1406,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-11-13T11:30:09+09:00"
+      "collected_at": "2026-11-13T21:48:02+09:00"
     },
     {
       "id": "4380b088cd61f29e",
@@ -1672,7 +1748,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-11-13T11:30:09+09:00"
+      "collected_at": "2026-11-13T21:48:02+09:00"
     },
     {
       "id": "e468ca83cd25af81",
@@ -1710,7 +1786,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-11-13T11:30:09+09:00"
+      "collected_at": "2026-11-13T21:48:02+09:00"
     },
     {
       "id": "eab5ed20fdeca900",
@@ -1843,7 +1919,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-11-13T11:30:09+09:00"
+      "collected_at": "2026-11-13T21:48:02+09:00"
     },
     {
       "id": "203bbcc4bfd0ba93",
@@ -1938,7 +2014,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-11-13T11:30:09+09:00"
+      "collected_at": "2026-11-13T21:48:02+09:00"
     },
     {
       "id": "44c0937723b40afd",
@@ -2071,7 +2147,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-11-13T11:30:09+09:00"
+      "collected_at": "2026-11-13T21:48:02+09:00"
     },
     {
       "id": "d82b03910dc77976",
@@ -2090,7 +2166,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-11-13T11:30:09+09:00"
+      "collected_at": "2026-11-13T21:48:02+09:00"
     },
     {
       "id": "67b117d6c4518ee2",
@@ -2109,7 +2185,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-11-13T11:30:09+09:00"
+      "collected_at": "2026-11-13T21:48:02+09:00"
     },
     {
       "id": "8c6817b5ff504d9e",
@@ -3439,7 +3515,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-11-13T11:30:10+09:00"
+      "collected_at": "2026-11-13T21:48:03+09:00"
     },
     {
       "id": "2488f13beb471fce",
@@ -3725,82 +3801,6 @@
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
       "collected_at": "2026-06-03T18:23:12+09:00"
-    },
-    {
-      "id": "4f5937f55a890fed",
-      "title": "정읍시, 2027년 유기질비료 지원사업 신청 접수 - 이로운넷",
-      "source": "이로운넷",
-      "region": "전국",
-      "category": "비료",
-      "published_at": "2026-06-01",
-      "startDate": "2026-06-01",
-      "endDate": "",
-      "deadline": "",
-      "method": "원문 확인 필요",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5YTlEzMFpzZGd5X0lGb2dqSEkya0otZDdtb1cyWDh6TU14QTJBQkoyV1VPWElfTFlLUVNXWGpJa2VaVTUtbHVRejhsOGZXTjcxeUFYMXVpTTBlYmFaakwycl82Ty1yQQ?oc=5",
-      "summary": [
-        "비료 관련 정보가 감지되었습니다.",
-        "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
-        "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
-      ],
-      "collected_at": "2026-06-02T08:39:55+09:00"
-    },
-    {
-      "id": "0f1c8521537d4415",
-      "title": "전남도, 유기질비료 지원사업 6월부터 조기 접수 - 데일리비즈온",
-      "source": "데일리비즈온",
-      "region": "전남",
-      "category": "비료",
-      "published_at": "2026-06-01",
-      "startDate": "2026-06-01",
-      "endDate": "",
-      "deadline": "",
-      "method": "원문 확인 필요",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9jd2JOUk53UURKRlBiRHZaVGZHWFFDNkRDR3NrMXFqVmRlb19YaVMwRkw5OUp1VkZKcUVTU0tUOHN6ckl4LU1IZkQ5TTdzM0MxVVN6NHl1WGktdmtCMVlqSFRyRE5nRDRKZ0RwOA?oc=5",
-      "summary": [
-        "비료 관련 정보가 감지되었습니다.",
-        "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
-        "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
-      ],
-      "collected_at": "2026-06-01T08:09:38+09:00"
-    },
-    {
-      "id": "f628fffd7ca9c0fa",
-      "title": "전남도, 유기질비료 적기 공급…“6월부터 신청하세요” - 광주타임즈",
-      "source": "광주타임즈",
-      "region": "전남",
-      "category": "비료",
-      "published_at": "2026-05-31",
-      "startDate": "2026-05-31",
-      "endDate": "",
-      "deadline": "",
-      "method": "원문 확인 필요",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBwaDhsMjA3YlJ5dko3ZGJ6Y0R6VlhiZklVZG1GMFNra0tCc1BXTi04WTNyUWNfbjBsZmZXQnBvUk0xaEFXb0JQZDQydVJtQjA2LXdLVXJwMDFzVWFrdGYxZmRzRmZDV1JuckE?oc=5",
-      "summary": [
-        "비료 관련 정보가 감지되었습니다.",
-        "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
-        "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
-      ],
-      "collected_at": "2026-10-14T18:53:12+09:00"
-    },
-    {
-      "id": "3b55056af7c60cf0",
-      "title": "전남도, “유기질비료 지원사업 6월부터 조기” 접수 - 무등뉴스",
-      "source": "무등뉴스",
-      "region": "전남",
-      "category": "비료",
-      "published_at": "2026-05-31",
-      "startDate": "2026-05-31",
-      "endDate": "",
-      "deadline": "",
-      "method": "원문 확인 필요",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBHMHBNcGlHOG9lZFAtZzNwd2xESHJxbFRNdHpLcDhUNWxucHBfZmhNZjhwSTZYZ1VMeTZJV3p3eGM2VWlvUGF1VFQxYm03YVA5U2dSa0VjTE5Sc2h6Y2pHOGk5THA4UkU?oc=5",
-      "summary": [
-        "비료 관련 정보가 감지되었습니다.",
-        "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
-        "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
-      ],
-      "collected_at": "2026-10-14T18:53:12+09:00"
     }
   ]
 }
