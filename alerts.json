@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T11:01:20+09:00",
+  "generated_at": "2026-11-22T22:00:18+09:00",
   "timezone": "Asia/Seoul",
   "alerts": [
     {
@@ -19,7 +19,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-11-22T11:01:20+09:00"
+      "collected_at": "2026-11-22T22:00:17+09:00"
     },
     {
       "id": "dbf1b51bba5e76dd",
@@ -57,7 +57,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-11-22T11:01:20+09:00"
+      "collected_at": "2026-11-22T22:00:17+09:00"
     },
     {
       "id": "9b6dbe1410d1c9dd",
@@ -152,7 +152,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-11-22T11:01:20+09:00"
+      "collected_at": "2026-11-22T22:00:17+09:00"
     },
     {
       "id": "76e626b0cfce6c01",
@@ -171,26 +171,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-11-22T11:01:20+09:00"
-    },
-    {
-      "id": "6fe13ebb0a1f6577",
-      "title": "남원시, 농업e지 ‘키오스크 ’설치 완료 디지털 농업행정 본격 가동 - 전북중앙",
-      "source": "전북중앙",
-      "region": "전북",
-      "category": "농업e지",
-      "published_at": "2026-11-15",
-      "startDate": "2026-11-15",
-      "endDate": "",
-      "deadline": "",
-      "method": "원문 확인 필요",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBucVJ6MEVIZTFLY3JWQ3NiTjJrMHJYWGhLUXltTVM3cXotQ0R3bXNzTmwzSXEwSGZBNWZNLUJsTm1xQk1UNnlsNVItek9LTFFzU09fQldaMzN6RS1SY2lDRWNYVmtLSGPSAWtBVV95cUxOT2t5UnFPTlNSRHQ0Ykp6Ujhkd0VxcmIzdTd6dHFxenlOTTJsak9jVE5tQTBwSzRBR2drd3RMYlRtUXFuU1BNVHVDYzhkZ1Q2ZVN4N3lvNmwwZ0lVU3k2aHlFbmhmYlFnX2l3Zw?oc=5",
-      "summary": [
-        "농업e지 관련 정보가 감지되었습니다.",
-        "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
-        "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
-      ],
-      "collected_at": "2026-11-22T11:01:20+09:00"
+      "collected_at": "2026-11-22T22:00:17+09:00"
     },
     {
       "id": "1f8cdf77bf97434c",
@@ -204,6 +185,25 @@
       "deadline": "",
       "method": "원문 확인 필요",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9WOW0zQmFUdWVod0RGbmZZaDNfNDN1TGdHdXhqTnNkN2NEbF80dWFjMlo1Y20yX19JQXhHV3pwSFZDRmNXbnRNckplYmI1UXJ3aVA1RVdmbUVRbDNLSXE0MHhxVEZFREk?oc=5",
+      "summary": [
+        "농업e지 관련 정보가 감지되었습니다.",
+        "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
+        "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
+      ],
+      "collected_at": "2026-11-22T22:00:17+09:00"
+    },
+    {
+      "id": "6fe13ebb0a1f6577",
+      "title": "남원시, 농업e지 ‘키오스크 ’설치 완료 디지털 농업행정 본격 가동 - 전북중앙",
+      "source": "전북중앙",
+      "region": "전북",
+      "category": "농업e지",
+      "published_at": "2026-11-15",
+      "startDate": "2026-11-15",
+      "endDate": "",
+      "deadline": "",
+      "method": "원문 확인 필요",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBucVJ6MEVIZTFLY3JWQ3NiTjJrMHJYWGhLUXltTVM3cXotQ0R3bXNzTmwzSXEwSGZBNWZNLUJsTm1xQk1UNnlsNVItek9LTFFzU09fQldaMzN6RS1SY2lDRWNYVmtLSGPSAWtBVV95cUxOT2t5UnFPTlNSRHQ0Ykp6Ujhkd0VxcmIzdTd6dHFxenlOTTJsak9jVE5tQTBwSzRBR2drd3RMYlRtUXFuU1BNVHVDYzhkZ1Q2ZVN4N3lvNmwwZ0lVU3k2aHlFbmhmYlFnX2l3Zw?oc=5",
       "summary": [
         "농업e지 관련 정보가 감지되었습니다.",
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
@@ -266,7 +266,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-11-22T11:01:20+09:00"
+      "collected_at": "2026-11-22T22:00:17+09:00"
     },
     {
       "id": "2fe29474b5a313fc",
@@ -285,7 +285,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-11-22T11:01:20+09:00"
+      "collected_at": "2026-11-22T22:00:17+09:00"
     },
     {
       "id": "9e3201ea3e50c798",
@@ -304,7 +304,26 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-11-22T11:01:20+09:00"
+      "collected_at": "2026-11-22T22:00:17+09:00"
+    },
+    {
+      "id": "b59ffa9f5e8a9fae",
+      "title": "남원시, 농업e지 “ 키오스크 “설치 완료 - 전북제일신문",
+      "source": "전북제일신문",
+      "region": "전북",
+      "category": "농업e지",
+      "published_at": "2026-11-13",
+      "startDate": "2026-11-13",
+      "endDate": "",
+      "deadline": "",
+      "method": "원문 확인 필요",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE92WnRPWktLTkNsM2Q2TGtRbzJISERfcjVnS0Zxa0U0dXNYSElNN3ZUWUc5S19EMEhVTnpROGF4WmVNRmNOMUdVRDE2dGlDU0dfMWdaZ1M1MmJHcWU0Ny1rNDVnRzh0amtRb2c?oc=5",
+      "summary": [
+        "농업e지 관련 정보가 감지되었습니다.",
+        "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
+        "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
+      ],
+      "collected_at": "2026-11-22T22:00:17+09:00"
     },
     {
       "id": "7111177cfbd64202",
@@ -494,7 +513,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-11-22T11:01:20+09:00"
+      "collected_at": "2026-11-22T22:00:17+09:00"
     },
     {
       "id": "ea4a321f382824f9",
@@ -722,7 +741,26 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-11-22T11:01:20+09:00"
+      "collected_at": "2026-11-22T22:00:17+09:00"
+    },
+    {
+      "id": "6800414521e982d4",
+      "title": "농업인 맞춤 '농업e지' 키오스크 설치…신분증만으로 경영체 등록·변경 - gukjenews.com",
+      "source": "gukjenews.com",
+      "region": "전국",
+      "category": "농업e지",
+      "published_at": "2026-10-16",
+      "startDate": "2026-10-16",
+      "endDate": "",
+      "deadline": "",
+      "method": "원문 확인 필요",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB3MG5oelE3S0QtWC1nc3VnR2t1Uzl4SlM2TzFGSEJ1aWhRejlEYWg1RUNvSS1XZ3dvNVd5dVFmZTY5T3VkMWNFVi1QZ0FpSWctSXNuQXZLcmhwcERTLTdCSkJaU21LZTZqYUUzdEpB?oc=5",
+      "summary": [
+        "농업e지 관련 정보가 감지되었습니다.",
+        "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
+        "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
+      ],
+      "collected_at": "2026-11-22T22:00:17+09:00"
     },
     {
       "id": "058a90dfcaaa891d",
@@ -742,25 +780,6 @@
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
       "collected_at": "2026-11-12T22:29:19+09:00"
-    },
-    {
-      "id": "6800414521e982d4",
-      "title": "농업인 맞춤 '농업e지' 키오스크 설치…신분증만으로 경영체 등록·변경 - gukjenews.com",
-      "source": "gukjenews.com",
-      "region": "전국",
-      "category": "농업e지",
-      "published_at": "2026-10-16",
-      "startDate": "2026-10-16",
-      "endDate": "",
-      "deadline": "",
-      "method": "원문 확인 필요",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB3MG5oelE3S0QtWC1nc3VnR2t1Uzl4SlM2TzFGSEJ1aWhRejlEYWg1RUNvSS1XZ3dvNVd5dVFmZTY5T3VkMWNFVi1QZ0FpSWctSXNuQXZLcmhwcERTLTdCSkJaU21LZTZqYUUzdEpB?oc=5",
-      "summary": [
-        "농업e지 관련 정보가 감지되었습니다.",
-        "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
-        "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
-      ],
-      "collected_at": "2026-11-11T21:22:06+09:00"
     },
     {
       "id": "b6d285668bed21a3",
@@ -988,7 +1007,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-11-22T11:01:19+09:00"
+      "collected_at": "2026-11-22T22:00:17+09:00"
     },
     {
       "id": "ad6ddb19856dbb70",
@@ -1178,7 +1197,7 @@
         "지역과 품목 관련성이 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-11-22T11:01:20+09:00"
+      "collected_at": "2026-11-22T22:00:17+09:00"
     },
     {
       "id": "756f02b8a70a0ef1",
@@ -1444,7 +1463,7 @@
         "지역과 품목 관련성이 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-11-22T11:01:20+09:00"
+      "collected_at": "2026-11-22T22:00:18+09:00"
     },
     {
       "id": "5d5170a6596bb90a",
@@ -1520,7 +1539,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-11-22T11:01:20+09:00"
+      "collected_at": "2026-11-22T22:00:17+09:00"
     },
     {
       "id": "a059a149b3cea3ea",
@@ -1596,7 +1615,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-11-22T11:01:20+09:00"
+      "collected_at": "2026-11-22T22:00:17+09:00"
     },
     {
       "id": "8c1a5759c9a4fe01",
@@ -1653,7 +1672,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-11-22T11:01:20+09:00"
+      "collected_at": "2026-11-22T22:00:17+09:00"
     },
     {
       "id": "914da0b8a7c89ed9",
@@ -1786,7 +1805,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-11-22T11:01:20+09:00"
+      "collected_at": "2026-11-22T22:00:17+09:00"
     },
     {
       "id": "384885bd57e824f9",
@@ -1805,7 +1824,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-11-22T11:01:20+09:00"
+      "collected_at": "2026-11-22T22:00:17+09:00"
     },
     {
       "id": "fe32c2c630c56d95",
@@ -1862,7 +1881,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-11-22T11:01:20+09:00"
+      "collected_at": "2026-11-22T22:00:17+09:00"
     },
     {
       "id": "4380b088cd61f29e",
@@ -2204,7 +2223,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-11-22T11:01:20+09:00"
+      "collected_at": "2026-11-22T22:00:17+09:00"
     },
     {
       "id": "e468ca83cd25af81",
@@ -2242,7 +2261,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-11-22T11:01:20+09:00"
+      "collected_at": "2026-11-22T22:00:17+09:00"
     },
     {
       "id": "eab5ed20fdeca900",
@@ -2375,7 +2394,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-11-22T11:01:20+09:00"
+      "collected_at": "2026-11-22T22:00:17+09:00"
     },
     {
       "id": "203bbcc4bfd0ba93",
@@ -2470,7 +2489,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-11-22T11:01:20+09:00"
+      "collected_at": "2026-11-22T22:00:17+09:00"
     },
     {
       "id": "d66119df0e6a951a",
@@ -2603,7 +2622,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-11-22T11:01:20+09:00"
+      "collected_at": "2026-11-22T22:00:17+09:00"
     },
     {
       "id": "d82b03910dc77976",
@@ -2622,7 +2641,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-11-22T11:01:20+09:00"
+      "collected_at": "2026-11-22T22:00:17+09:00"
     },
     {
       "id": "67b117d6c4518ee2",
@@ -2641,7 +2660,7 @@
         "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
-      "collected_at": "2026-11-22T11:01:20+09:00"
+      "collected_at": "2026-11-22T22:00:17+09:00"
     },
     {
       "id": "8c6817b5ff504d9e",
@@ -3782,25 +3801,6 @@
         "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
       ],
       "collected_at": "2026-06-07T17:21:49+09:00"
-    },
-    {
-      "id": "a3cd446535733383",
-      "title": "나주시, 2027년 유기질비료 지원사업 신청하세요! - 한국사회적경제신문",
-      "source": "한국사회적경제신문",
-      "region": "전국",
-      "category": "비료",
-      "published_at": "2026-06-05",
-      "startDate": "2026-06-05",
-      "endDate": "",
-      "deadline": "",
-      "method": "원문 확인 필요",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tUm5jcUJDWXBiWU5qZElDTG9OOEg3akFlZWlXQzV0Mkh6cEFRRnBFOG01NDhFNVQ1RzMxS01BVm1jX0VfUDVjV0ozc3FMSlE4T2k4UmVtalJZUQ?oc=5",
-      "summary": [
-        "비료 관련 정보가 감지되었습니다.",
-        "신청기간, 대상자, 신청처가 있는지 확인이 필요합니다.",
-        "원문 링크에서 신청기간, 대상지역, 신청방법을 재확인하세요."
-      ],
-      "collected_at": "2026-06-05T17:41:18+09:00"
     }
   ]
 }
